@@ -1,0 +1,16 @@
+/*------------------------------------------------------------------------------------------------
+
+    Unchained: 700
+
+-------------------------------------------------------------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&display=swap&subset=cyrillic-ext,greek,latin-ext,vietnamese');
+
+@font-face {
+  font-family: "Unchained";
+  src: url("https://images.godsunchained.com/fonts/unchained/unchained.woff2")
+    format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
