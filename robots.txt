@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+
+
+Disallow: /wp-login.php
+Disallow: /template-redirect/
+Disallow: /jssdk/
+Disallow: /track/
+Disallow: /gps/
+Disallow: /*?Track_link
+
