@@ -1,5 +1,5 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="eozociifxyzo" lang="en">
     <head>
         <meta charset="utf-8"/>
         <title>7 Best VPNs for 2022</title>
@@ -42,7 +42,7 @@
                 content: none
             }
 
-            table {
+            jdazplxhropvtv {
                 border-collapse: collapse;
                 border-spacing: 0
             }
@@ -88,7 +88,7 @@
                 font-display: swap
             }
 
-            .fa-ANDROID:before,.fa-LINUX:before,.fa-MAC:before,.fa-ROUTER:before,.fa-Speed:before,.fa-WINDOWS:before,.fa-address-card:before,.fa-android-brands:before,.fa-android:before,.fa-angellist:before,.fa-angle-up:before,.fa-apple:before,.fa-arrow-circle-right:before,.fa-award:before,.fa-balance-scale:before,.fa-ban:before,.fa-bar-chart:before,.fa-best_category_check_icon:before,.fa-btc:before,.fa-calendar:before,.fa-certificate:before,.fa-chart-line-down:before,.fa-check-box:before,.fa-check-circle:before,.fa-check:before,.fa-chess-king:before,.fa-chevron-down:before,.fa-chevron-left:before,.fa-chevron-right:before,.fa-chevron-up:before,.fa-cog:before,.fa-coins:before,.fa-comment-check:before,.fa-comment-edit:before,.fa-comment-lines:before,.fa-comment-o-edit:before,.fa-comments:before,.fa-credit-card:before,.fa-desktop:before,.fa-devices:before,.fa-dollar-sign:before,.fa-download-cloud:before,.fa-downloads:before,.fa-ease:before,.fa-envelope:before,.fa-eye-slash:before,.fa-eye:before,.fa-facebook-official:before,.fa-facebook-square-brands:before,.fa-facebook:before,.fa-feather-alt-solid:before,.fa-feather:before,.fa-features:before,.fa-file-certificate:before,.fa-file-check:before,.fa-file-o:before,.fa-file-signature:before,.fa-flag-usa:before,.fa-globe-solid:before,.fa-globe:before,.fa-google-square-brands:before,.fa-google:before,.fa-graduation-cap:before,.fa-hand-point-right:before,.fa-handshake-o:before,.fa-hdd:before,.fa-heart:before,.fa-hourglass-half:before,.fa-ios:before,.fa-life-ring:before,.fa-lightbulb-o:before,.fa-linkedin:before,.fa-linux:before,.fa-list:before,.fa-lock:before,.fa-mac:before,.fa-map-marker:before,.fa-mobile-phone:before,.fa-mobile:before,.fa-money-back:before,.fa-newbies:before,.fa-paper-plane:before,.fa-pedestal:before,.fa-pencil:before,.fa-play-circle:before,.fa-power-off:before,.fa-pricing:before,.fa-privacy:before,.fa-question-solid:before,.fa-reddit:before,.fa-reply:before,.fa-router:before,.fa-score:before,.fa-screenshot:before,.fa-search-location:before,.fa-search-r:before,.fa-search:before,.fa-security:before,.fa-server:before,.fa-servers:before,.fa-shield:before,.fa-speed-tool:before,.fa-speed:before,.fa-spinner:before,.fa-star-half-o:before,.fa-star-o:before,.fa-star:before,.fa-streaming:before,.fa-support:before,.fa-switch:before,.fa-tablet:before,.fa-tag:before,.fa-tags:before,.fa-thumbs-down:before,.fa-thumbs-o-down:before,.fa-thumbs-o-up:before,.fa-thumbs-up:before,.fa-ticket:before,.fa-times:before,.fa-toggle-on:before,.fa-torrent:before,.fa-trophy:before,.fa-tv-solid:before,.fa-twitter-square-brands:before,.fa-twitter:before,.fa-user:before,.fa-users-solid:before,.fa-video-camera:before,.fa-wallet:before,.fa-wifi:before,.fa-windows:before,.fa-wrench:before,.fa-youtube-square-brands:before,.fa-youtube:before {
+            .fagswpdrqrifrtv-ANDROID:before,.fagswpdrqrifrtv-LINUX:before,.fagswpdrqrifrtv-MAC:before,.fagswpdrqrifrtv-ROUTER:before,.fagswpdrqrifrtv-Speed:before,.fagswpdrqrifrtv-WINDOWS:before,.fagswpdrqrifrtv-address-card:before,.eswyyljzif-brands:before,.eswyyljzif:before,.fagswpdrqrifrtv-angellist:before,.fagswpdrqrifrtv-angle-up:before,.xqaafvhfqiveyfw:before,.fagswpdrqrifrtv-arrow-circle-right:before,.fagswpdrqrifrtv-award:before,.fagswpdrqrifrtv-balance-scale:before,.fagswpdrqrifrtv-ban:before,.fagswpdrqrifrtv-bar-chart:before,.fagswpdrqrifrtv-best_category_check_icon:before,.fagswpdrqrifrtv-btc:before,.fagswpdrqrifrtv-calendar:before,.fagswpdrqrifrtv-certificate:before,.fagswpdrqrifrtv-chart-line-down:before,.hhyjxphxyeukud-box:before,.hhyjxphxyeukud-circle:before,.hhyjxphxyeukud:before,.fagswpdrqrifrtv-chess-king:before,.fagswpdrqrifrtv-chevron-down:before,.vqsihvpycz:before,.zyxesrydvqlka:before,.fagswpdrqrifrtv-chevron-up:before,.fagswpdrqrifrtv-cog:before,.fagswpdrqrifrtv-coins:before,.fagswpdrqrifrtv-comment-check:before,.fagswpdrqrifrtv-comment-edit:before,.fagswpdrqrifrtv-comment-lines:before,.fagswpdrqrifrtv-comment-o-edit:before,.fagswpdrqrifrtv-comments:before,.fagswpdrqrifrtv-credit-card:before,.agertkxshlcjpl:before,.cvczojwdohx:before,.hstuiehssvwzez:before,.fagswpdrqrifrtv-download-cloud:before,.fagswpdrqrifrtv-downloads:before,.ljtgpjucai:before,.tqiiafqkqps:before,.fagswpdrqrifrtv-eye-slash:before,.fagswpdrqrifrtv-eye:before,.splktlgwplyh-official:before,.hezclaaqgh:before,.splktlgwplyh:before,.fagswpdrqrifrtv-feather-alt-solid:before,.fagswpdrqrifrtv-feather:before,.pieuwoohelyooeq:before,.fagswpdrqrifrtv-file-certificate:before,.fagswpdrqrifrtv-file-check:before,.fagswpdrqrifrtv-file-o:before,.fagswpdrqrifrtv-file-signature:before,.fagswpdrqrifrtv-flag-usa:before,.fagswpdrqrifrtv-globe-solid:before,.fagswpdrqrifrtv-globe:before,.fagswpdrqrifrtv-google-square-brands:before,.fagswpdrqrifrtv-google:before,.fagswpdrqrifrtv-graduation-cap:before,.sjvrrqhytkxi:before,.fagswpdrqrifrtv-handshake-o:before,.fagswpdrqrifrtv-hdd:before,.fagswpdrqrifrtv-heart:before,.fagswpdrqrifrtv-hourglass-half:before,.cvqlhdsusi:before,.fagswpdrqrifrtv-life-ring:before,.fagswpdrqrifrtv-lightbulb-o:before,.fagswpdrqrifrtv-linkedin:before,.cvtgjvgzlihxipg:before,.fagswpdrqrifrtv-list:before,.fwstyeyewttq:before,.owpzihsuwyyvh:before,.fagswpdrqrifrtv-map-marker:before,.yvllijzowqc-phone:before,.yvllijzowqc:before,.fagswpdrqrifrtv-money-back:before,.fagswpdrqrifrtv-newbies:before,.fagswpdrqrifrtv-paper-plane:before,.fagswpdrqrifrtv-pedestal:before,.fagswpdrqrifrtv-pencil:before,.fagswpdrqrifrtv-play-circle:before,.fagswpdrqrifrtv-power-off:before,.pfsjrvejpcapgy:before,.fagswpdrqrifrtv-privacy:before,.fagswpdrqrifrtv-question-solid:before,.fagswpdrqrifrtv-reddit:before,.fagswpdrqrifrtv-reply:before,.vyjkpyotkv:before,.fagswpdrqrifrtv-score:before,.fagswpdrqrifrtv-screenshot:before,.picherigdjgi-location:before,.ozpcxophzotvsie:before,.picherigdjgi:before,.fagswpdrqrifrtv-security:before,.fagswpdrqrifrtv-server:before,.powohzsjethhio:before,.pgkdcwgtlvvy:before,.owtejeothhef-tool:before,.owtejeothhef:before,.fagswpdrqrifrtv-spinner:before,.sjhtwakxvlv:before,.xkyarcosfuhyupj-o:before,.xkyarcosfuhyupj:before,.fagswpdrqrifrtv-streaming:before,.kruxqioivdhji:before,.jcxvegalse:before,.fagswpdrqrifrtv-tablet:before,.fagswpdrqrifrtv-tag:before,.fagswpdrqrifrtv-tags:before,.fagswpdrqrifrtv-thumbs-down:before,.fagswpdrqrifrtv-thumbs-o-down:before,.fagswpdrqrifrtv-thumbs-o-up:before,.isqwhswzxdpgiw:before,.fagswpdrqrifrtv-ticket:before,.rgaiietjwk:before,.fagswpdrqrifrtv-toggle-on:before,.fagswpdrqrifrtv-torrent:before,.fagswpdrqrifrtv-trophy:before,.fagswpdrqrifrtv-tv-solid:before,.tyekpdlevh:before,.ezdsxwaxykzolod:before,.xxcrafdrvzi:before,.howrexghxi:before,.fagswpdrqrifrtv-video-camera:before,.fagswpdrqrifrtv-wallet:before,.dfaytjcpatgxp:before,.rhhqihiygzrx:before,.fagswpdrqrifrtv-wrench:before,.kgipfivdily:before,.aeudwaqjyq:before {
                 font-family: icons;
                 -webkit-font-smoothing: antialiased;
                 -moz-osx-font-smoothing: grayscale;
@@ -101,539 +101,539 @@
                 vertical-align: bottom
             }
 
-            .fa-ANDROID:before {
+            .fagswpdrqrifrtv-ANDROID:before {
                 content: ""
             }
 
-            .fa-LINUX:before {
+            .fagswpdrqrifrtv-LINUX:before {
                 content: ""
             }
 
-            .fa-MAC:before {
+            .fagswpdrqrifrtv-MAC:before {
                 content: ""
             }
 
-            .fa-ROUTER:before {
+            .fagswpdrqrifrtv-ROUTER:before {
                 content: ""
             }
 
-            .fa-Speed:before {
+            .fagswpdrqrifrtv-Speed:before {
                 content: ""
             }
 
-            .fa-WINDOWS:before {
+            .fagswpdrqrifrtv-WINDOWS:before {
                 content: ""
             }
 
-            .fa-address-card:before {
+            .fagswpdrqrifrtv-address-card:before {
                 content: ""
             }
 
-            .fa-android-brands:before {
+            .eswyyljzif-brands:before {
                 content: ""
             }
 
-            .fa-android:before {
+            .eswyyljzif:before {
                 content: ""
             }
 
-            .fa-angellist:before {
+            .fagswpdrqrifrtv-angellist:before {
                 content: ""
             }
 
-            .fa-angle-up:before {
+            .fagswpdrqrifrtv-angle-up:before {
                 content: ""
             }
 
-            .fa-apple:before {
+            .xqaafvhfqiveyfw:before {
                 content: ""
             }
 
-            .fa-arrow-circle-right:before {
+            .fagswpdrqrifrtv-arrow-circle-right:before {
                 content: ""
             }
 
-            .fa-award:before {
+            .fagswpdrqrifrtv-award:before {
                 content: ""
             }
 
-            .fa-balance-scale:before {
+            .fagswpdrqrifrtv-balance-scale:before {
                 content: ""
             }
 
-            .fa-ban:before {
+            .fagswpdrqrifrtv-ban:before {
                 content: ""
             }
 
-            .fa-bar-chart:before {
+            .fagswpdrqrifrtv-bar-chart:before {
                 content: ""
             }
 
-            .fa-best_category_check_icon:before {
+            .fagswpdrqrifrtv-best_category_check_icon:before {
                 content: ""
             }
 
-            .fa-btc:before {
+            .fagswpdrqrifrtv-btc:before {
                 content: ""
             }
 
-            .fa-calendar:before {
+            .fagswpdrqrifrtv-calendar:before {
                 content: ""
             }
 
-            .fa-certificate:before {
+            .fagswpdrqrifrtv-certificate:before {
                 content: ""
             }
 
-            .fa-chart-line-down:before {
+            .fagswpdrqrifrtv-chart-line-down:before {
                 content: ""
             }
 
-            .fa-check-box:before {
+            .hhyjxphxyeukud-box:before {
                 content: ""
             }
 
-            .fa-check-circle:before {
+            .hhyjxphxyeukud-circle:before {
                 content: ""
             }
 
-            .fa-check:before {
+            .hhyjxphxyeukud:before {
                 content: ""
             }
 
-            .fa-chess-king:before {
+            .fagswpdrqrifrtv-chess-king:before {
                 content: ""
             }
 
-            .fa-chevron-down:before {
+            .fagswpdrqrifrtv-chevron-down:before {
                 content: ""
             }
 
-            .fa-chevron-left:before {
+            .vqsihvpycz:before {
                 content: ""
             }
 
-            .fa-chevron-right:before {
+            .zyxesrydvqlka:before {
                 content: ""
             }
 
-            .fa-chevron-up:before {
+            .fagswpdrqrifrtv-chevron-up:before {
                 content: ""
             }
 
-            .fa-cog:before {
+            .fagswpdrqrifrtv-cog:before {
                 content: ""
             }
 
-            .fa-coins:before {
+            .fagswpdrqrifrtv-coins:before {
                 content: ""
             }
 
-            .fa-comment-check:before {
+            .fagswpdrqrifrtv-comment-check:before {
                 content: ""
             }
 
-            .fa-comment-edit:before {
+            .fagswpdrqrifrtv-comment-edit:before {
                 content: ""
             }
 
-            .fa-comment-lines:before {
+            .fagswpdrqrifrtv-comment-lines:before {
                 content: ""
             }
 
-            .fa-comment-o-edit:before {
+            .fagswpdrqrifrtv-comment-o-edit:before {
                 content: ""
             }
 
-            .fa-comments:before {
+            .fagswpdrqrifrtv-comments:before {
                 content: ""
             }
 
-            .fa-credit-card:before {
+            .fagswpdrqrifrtv-credit-card:before {
                 content: ""
             }
 
-            .fa-desktop:before {
+            .agertkxshlcjpl:before {
                 content: ""
             }
 
-            .fa-devices:before {
+            .cvczojwdohx:before {
                 content: ""
             }
 
-            .fa-dollar-sign:before {
+            .hstuiehssvwzez:before {
                 content: ""
             }
 
-            .fa-download-cloud:before {
+            .fagswpdrqrifrtv-download-cloud:before {
                 content: ""
             }
 
-            .fa-downloads:before {
+            .fagswpdrqrifrtv-downloads:before {
                 content: ""
             }
 
-            .fa-ease:before {
+            .ljtgpjucai:before {
                 content: ""
             }
 
-            .fa-envelope:before {
+            .tqiiafqkqps:before {
                 content: ""
             }
 
-            .fa-eye-slash:before {
+            .fagswpdrqrifrtv-eye-slash:before {
                 content: ""
             }
 
-            .fa-eye:before {
+            .fagswpdrqrifrtv-eye:before {
                 content: ""
             }
 
-            .fa-facebook-official:before {
+            .splktlgwplyh-official:before {
                 content: ""
             }
 
-            .fa-facebook-square-brands:before {
+            .hezclaaqgh:before {
                 content: ""
             }
 
-            .fa-facebook:before {
+            .splktlgwplyh:before {
                 content: ""
             }
 
-            .fa-feather-alt-solid:before {
+            .fagswpdrqrifrtv-feather-alt-solid:before {
                 content: ""
             }
 
-            .fa-feather:before {
+            .fagswpdrqrifrtv-feather:before {
                 content: ""
             }
 
-            .fa-features:before {
+            .pieuwoohelyooeq:before {
                 content: ""
             }
 
-            .fa-file-certificate:before {
+            .fagswpdrqrifrtv-file-certificate:before {
                 content: ""
             }
 
-            .fa-file-check:before {
+            .fagswpdrqrifrtv-file-check:before {
                 content: ""
             }
 
-            .fa-file-o:before {
+            .fagswpdrqrifrtv-file-o:before {
                 content: ""
             }
 
-            .fa-file-signature:before {
+            .fagswpdrqrifrtv-file-signature:before {
                 content: ""
             }
 
-            .fa-flag-usa:before {
+            .fagswpdrqrifrtv-flag-usa:before {
                 content: ""
             }
 
-            .fa-globe-solid:before {
+            .fagswpdrqrifrtv-globe-solid:before {
                 content: ""
             }
 
-            .fa-globe:before {
+            .fagswpdrqrifrtv-globe:before {
                 content: ""
             }
 
-            .fa-google-square-brands:before {
+            .fagswpdrqrifrtv-google-square-brands:before {
                 content: ""
             }
 
-            .fa-google:before {
+            .fagswpdrqrifrtv-google:before {
                 content: ""
             }
 
-            .fa-graduation-cap:before {
+            .fagswpdrqrifrtv-graduation-cap:before {
                 content: ""
             }
 
-            .fa-hand-point-right:before {
+            .sjvrrqhytkxi:before {
                 content: ""
             }
 
-            .fa-handshake-o:before {
+            .fagswpdrqrifrtv-handshake-o:before {
                 content: ""
             }
 
-            .fa-hdd:before {
+            .fagswpdrqrifrtv-hdd:before {
                 content: ""
             }
 
-            .fa-heart:before {
+            .fagswpdrqrifrtv-heart:before {
                 content: ""
             }
 
-            .fa-hourglass-half:before {
+            .fagswpdrqrifrtv-hourglass-half:before {
                 content: ""
             }
 
-            .fa-ios:before {
+            .cvqlhdsusi:before {
                 content: ""
             }
 
-            .fa-life-ring:before {
+            .fagswpdrqrifrtv-life-ring:before {
                 content: ""
             }
 
-            .fa-lightbulb-o:before {
+            .fagswpdrqrifrtv-lightbulb-o:before {
                 content: ""
             }
 
-            .fa-linkedin:before {
+            .fagswpdrqrifrtv-linkedin:before {
                 content: ""
             }
 
-            .fa-linux:before {
+            .cvtgjvgzlihxipg:before {
                 content: ""
             }
 
-            .fa-list:before {
+            .fagswpdrqrifrtv-list:before {
                 content: ""
             }
 
-            .fa-lock:before {
+            .fwstyeyewttq:before {
                 content: ""
             }
 
-            .fa-mac:before {
+            .owpzihsuwyyvh:before {
                 content: ""
             }
 
-            .fa-map-marker:before {
+            .fagswpdrqrifrtv-map-marker:before {
                 content: ""
             }
 
-            .fa-mobile-phone:before {
+            .yvllijzowqc-phone:before {
                 content: ""
             }
 
-            .fa-mobile:before {
+            .yvllijzowqc:before {
                 content: ""
             }
 
-            .fa-money-back:before {
+            .fagswpdrqrifrtv-money-back:before {
                 content: ""
             }
 
-            .fa-newbies:before {
+            .fagswpdrqrifrtv-newbies:before {
                 content: ""
             }
 
-            .fa-paper-plane:before {
+            .fagswpdrqrifrtv-paper-plane:before {
                 content: ""
             }
 
-            .fa-pedestal:before {
+            .fagswpdrqrifrtv-pedestal:before {
                 content: ""
             }
 
-            .fa-pencil:before {
+            .fagswpdrqrifrtv-pencil:before {
                 content: ""
             }
 
-            .fa-play-circle:before {
+            .fagswpdrqrifrtv-play-circle:before {
                 content: ""
             }
 
-            .fa-power-off:before {
+            .fagswpdrqrifrtv-power-off:before {
                 content: ""
             }
 
-            .fa-pricing:before {
+            .pfsjrvejpcapgy:before {
                 content: ""
             }
 
-            .fa-privacy:before {
+            .fagswpdrqrifrtv-privacy:before {
                 content: ""
             }
 
-            .fa-question-solid:before {
+            .fagswpdrqrifrtv-question-solid:before {
                 content: ""
             }
 
-            .fa-reddit:before {
+            .fagswpdrqrifrtv-reddit:before {
                 content: ""
             }
 
-            .fa-reply:before {
+            .fagswpdrqrifrtv-reply:before {
                 content: ""
             }
 
-            .fa-router:before {
+            .vyjkpyotkv:before {
                 content: ""
             }
 
-            .fa-score:before {
+            .fagswpdrqrifrtv-score:before {
                 content: ""
             }
 
-            .fa-screenshot:before {
+            .fagswpdrqrifrtv-screenshot:before {
                 content: ""
             }
 
-            .fa-search-location:before {
+            .picherigdjgi-location:before {
                 content: ""
             }
 
-            .fa-search-r:before {
+            .ozpcxophzotvsie:before {
                 content: ""
             }
 
-            .fa-search:before {
+            .picherigdjgi:before {
                 content: ""
             }
 
-            .fa-security:before {
+            .fagswpdrqrifrtv-security:before {
                 content: ""
             }
 
-            .fa-server:before {
+            .fagswpdrqrifrtv-server:before {
                 content: ""
             }
 
-            .fa-servers:before {
+            .powohzsjethhio:before {
                 content: ""
             }
 
-            .fa-shield:before {
+            .pgkdcwgtlvvy:before {
                 content: ""
             }
 
-            .fa-speed-tool:before {
+            .owtejeothhef-tool:before {
                 content: ""
             }
 
-            .fa-speed:before {
+            .owtejeothhef:before {
                 content: ""
             }
 
-            .fa-spinner:before {
+            .fagswpdrqrifrtv-spinner:before {
                 content: ""
             }
 
-            .fa-star-half-o:before {
+            .sjhtwakxvlv:before {
                 content: ""
             }
 
-            .fa-star-o:before {
+            .xkyarcosfuhyupj-o:before {
                 content: ""
             }
 
-            .fa-star:before {
+            .xkyarcosfuhyupj:before {
                 content: ""
             }
 
-            .fa-streaming:before {
+            .fagswpdrqrifrtv-streaming:before {
                 content: ""
             }
 
-            .fa-support:before {
+            .kruxqioivdhji:before {
                 content: ""
             }
 
-            .fa-switch:before {
+            .jcxvegalse:before {
                 content: ""
             }
 
-            .fa-tablet:before {
+            .fagswpdrqrifrtv-tablet:before {
                 content: ""
             }
 
-            .fa-tag:before {
+            .fagswpdrqrifrtv-tag:before {
                 content: ""
             }
 
-            .fa-tags:before {
+            .fagswpdrqrifrtv-tags:before {
                 content: ""
             }
 
-            .fa-thumbs-down:before {
+            .fagswpdrqrifrtv-thumbs-down:before {
                 content: ""
             }
 
-            .fa-thumbs-o-down:before {
+            .fagswpdrqrifrtv-thumbs-o-down:before {
                 content: ""
             }
 
-            .fa-thumbs-o-up:before {
+            .fagswpdrqrifrtv-thumbs-o-up:before {
                 content: ""
             }
 
-            .fa-thumbs-up:before {
+            .isqwhswzxdpgiw:before {
                 content: ""
             }
 
-            .fa-ticket:before {
+            .fagswpdrqrifrtv-ticket:before {
                 content: ""
             }
 
-            .fa-times:before {
+            .rgaiietjwk:before {
                 content: ""
             }
 
-            .fa-toggle-on:before {
+            .fagswpdrqrifrtv-toggle-on:before {
                 content: ""
             }
 
-            .fa-torrent:before {
+            .fagswpdrqrifrtv-torrent:before {
                 content: ""
             }
 
-            .fa-trophy:before {
+            .fagswpdrqrifrtv-trophy:before {
                 content: ""
             }
 
-            .fa-tv-solid:before {
+            .fagswpdrqrifrtv-tv-solid:before {
                 content: ""
             }
 
-            .fa-twitter-square-brands:before {
+            .tyekpdlevh:before {
                 content: ""
             }
 
-            .fa-twitter:before {
+            .ezdsxwaxykzolod:before {
                 content: ""
             }
 
-            .fa-user:before {
+            .xxcrafdrvzi:before {
                 content: ""
             }
 
-            .fa-users-solid:before {
+            .howrexghxi:before {
                 content: ""
             }
 
-            .fa-video-camera:before {
+            .fagswpdrqrifrtv-video-camera:before {
                 content: ""
             }
 
-            .fa-wallet:before {
+            .fagswpdrqrifrtv-wallet:before {
                 content: ""
             }
 
-            .fa-wifi:before {
+            .dfaytjcpatgxp:before {
                 content: ""
             }
 
-            .fa-windows:before {
+            .rhhqihiygzrx:before {
                 content: ""
             }
 
-            .fa-wrench:before {
+            .fagswpdrqrifrtv-wrench:before {
                 content: ""
             }
 
-            .fa-youtube-square-brands:before {
+            .kgipfivdily:before {
                 content: ""
             }
 
-            .fa-youtube:before {
+            .aeudwaqjyq:before {
                 content: ""
             }
 
@@ -685,31 +685,31 @@
                 direction: ltr
             }
 
-            .container {
+            .hpdlsfcgev {
                 margin: 0 auto;
                 padding: 0 25px
             }
 
             @media (min-width: 768px) {
-                .container {
+                .hpdlsfcgev {
                     width:750px;
                     padding: 0
                 }
             }
 
             @media (min-width: 992px) {
-                .container {
+                .hpdlsfcgev {
                     width:970px
                 }
             }
 
             @media (min-width: 1200px) {
-                .container {
+                .hpdlsfcgev {
                     width:1170px
                 }
             }
 
-            .button {
+            .xtkgadqcgwh {
                 text-align: center;
                 background: no-repeat padding-box #e64a19;
                 box-shadow: 0 5px 5px "#E64A191A";
@@ -722,7 +722,7 @@
                 color: #fafafa
             }
 
-            .button:after {
+            .xtkgadqcgwh:after {
                 content: '';
                 width: 17px;
                 height: 17px;
@@ -735,22 +735,22 @@
                 transform: rotate(0)
             }
 
-            .button:hover {
+            .xtkgadqcgwh:hover {
                 background: no-repeat padding-box #00acc1;
                 box-shadow: 0 0 5px "#00ACC11A"
             }
 
-            .button:hover:after {
+            .xtkgadqcgwh:hover:after {
                 transition: .5s;
                 margin-left: 5px;
                 margin-right: -5px
             }
 
-            .no-js #watchVideoBlock,.no-js .content-wrap.comparison,.no-js .img-lazy-wrap,.no-js .lazy,.no-js .picture-lazy,.no-js [data-src] {
+            .eozociifxyzo #watchVideoBlock,.eozociifxyzo .pqghoozzuekwoa.comparison,.eozociifxyzo .img-lazy-wrap,.eozociifxyzo .lazy,.eozociifxyzo .picture-lazy,.eozociifxyzo [data-src] {
                 display: none!important
             }
 
-            .overlay-link {
+            .qwsrlorouwgarix {
                 width: 100%;
                 height: 100%;
                 position: absolute;
@@ -770,73 +770,73 @@
                 visibility: hidden
             }
 
-            .section-title {
+            .udgqdzkpodt {
                 font-size: 24px;
                 line-height: 32px;
                 margin: 25px 0
             }
 
-            .section-title--white {
+            .qrecgfqlkotrav {
                 color: #fff
             }
 
             @media (min-width: 768px) {
-                .button {
+                .xtkgadqcgwh {
                     padding:11px 15px
                 }
 
-                .section-title {
+                .udgqdzkpodt {
                     font-size: 32px
                 }
             }
 
-            .svg-ico {
+            .tgjlwwsxvgaj {
                 height: 30px;
                 width: 30px;
                 display: inline-block
             }
 
-            .svg-ico.svg-ico-netflix {
+            .tgjlwwsxvgaj.tgjlwwsxvgaj-netflix {
                 background: url(wp-content/themes/vpnmentor/images/netflix.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-kodi {
+            .tgjlwwsxvgaj.tgjlwwsxvgaj-kodi {
                 background: url(wp-content/themes/vpnmentor/images/kodi.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-amazon-fire-stick {
+            .tgjlwwsxvgaj.tgjlwwsxvgaj-amazon-fire-stick {
                 background: url(wp-content/themes/vpnmentor/images/amazon-fire-stick.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-torrent {
+            .tgjlwwsxvgaj.tgjlwwsxvgaj-torrent {
                 background: url(wp-content/themes/vpnmentor/images/torrent.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-iplayer {
+            .tgjlwwsxvgaj.tgjlwwsxvgaj-iplayer {
                 background: url(wp-content/themes/vpnmentor/images/iplayer.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-china {
+            .tgjlwwsxvgaj.hwkhpjspsegp {
                 background: url(wp-content/themes/vpnmentor/images/china.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-usa {
+            .tgjlwwsxvgaj.cajycltpygyxx {
                 background: url(wp-content/themes/vpnmentor/images/usa.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-united-arab-emirates {
+            .tgjlwwsxvgaj.isarjeukhu {
                 background: url(wp-content/themes/vpnmentor/images/united-arab-emirates.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-australia {
+            .tgjlwwsxvgaj.ywdftazyxtwpvly {
                 background: url(wp-content/themes/vpnmentor/images/australia.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-united-kingdom {
+            .tgjlwwsxvgaj.dozacftdhe {
                 background: url(wp-content/themes/vpnmentor/images/united-kingdom.svg) no-repeat
             }
 
-            .svg-ico.svg-ico-canada {
+            .tgjlwwsxvgaj.eedxypcpotejj {
                 background: url(wp-content/themes/vpnmentor/images/canada.svg) no-repeat
             }
 
@@ -845,7 +845,7 @@
                 position: relative
             }
 
-            header .container {
+            header .hpdlsfcgev {
                 display: flex;
                 align-items: center;
                 justify-content: space-between;
@@ -862,14 +862,14 @@
                 height: 14px
             }
 
-            .menu__burger {
+            .vveikaicdvpx {
                 z-index: 999;
                 position: absolute;
                 top: 23px
             }
 
             @media (min-width: 1200px) {
-                header .container {
+                header .hpdlsfcgev {
                     position:relative;
                     height: 43px;
                     margin-top: 25px
@@ -881,12 +881,12 @@
                     justify-content: flex-end
                 }
 
-                .menu__burger {
+                .vveikaicdvpx {
                     display: none
                 }
             }
 
-            .menu__burger div {
+            .vveikaicdvpx div {
                 background: #1d5b8a;
                 width: 15px;
                 height: 2px;
@@ -894,19 +894,19 @@
                 transition: .5s
             }
 
-            .menu__burger div:first-child {
+            .vveikaicdvpx div:first-child {
                 width: 18px
             }
 
-            .menu__burger div:last-child {
+            .vveikaicdvpx div:last-child {
                 width: 10px
             }
 
-            .menu__burger_open,.menu__burger_open div {
+            .vveikaicdvpx_open,.vveikaicdvpx_open div {
                 background: 0 0
             }
 
-            .menu__burger_open div:first-child,.menu__burger_open div:last-child {
+            .vveikaicdvpx_open div:first-child,.vveikaicdvpx_open div:last-child {
                 top: 50%;
                 position: absolute;
                 width: 14px;
@@ -915,15 +915,15 @@
                 background: #fff
             }
 
-            .menu__burger_open div:first-child {
+            .vveikaicdvpx_open div:first-child {
                 transform: rotate(-45deg)
             }
 
-            .menu__burger_open div:last-child {
+            .vveikaicdvpx_open div:last-child {
                 transform: rotate(45deg)
             }
 
-            .menu__block {
+            .shkqazuupos {
                 width: 200px;
                 padding: 50px 25px;
                 min-height: 100vh;
@@ -935,16 +935,16 @@
                 z-index: 99
             }
 
-            .menu__block_open {
+            .shkqazuupos_open {
                 right: 0
             }
 
-            .menu__list {
+            .fcdfwpjczhv {
                 margin: 30px 0
             }
 
             @media (min-width: 1200px) {
-                .menu__block {
+                .shkqazuupos {
                     position:static;
                     display: flex;
                     width: auto;
@@ -955,14 +955,14 @@
                     transition: unset
                 }
 
-                .menu__list {
+                .fcdfwpjczhv {
                     order: 0;
                     display: flex;
                     margin: 0;
                     position: relative
                 }
 
-                .menu__list_child {
+                .cvkzqojfgqq {
                     position: absolute;
                     z-index: 99;
                     background: #fff;
@@ -974,59 +974,59 @@
                 }
             }
 
-            .menu__list_child {
+            .cvkzqojfgqq {
                 display: none;
                 margin: 10px 0 0
             }
 
-            .menu__list_child-l2 {
+            .expekuzpky {
                 display: none;
                 margin: 10px 0 0
             }
 
-            .menu__list_open {
+            .fcdfwpjczhv_open {
                 display: block
             }
 
-            .menu__item {
+            .xjdyerlstzew {
                 padding-bottom: 25px
             }
 
-            .menu__item:last-child {
+            .xjdyerlstzew:last-child {
                 padding-bottom: 0
             }
 
-            .menu__item_child {
+            .tjlhaljqycyc {
                 padding-bottom: 10px;
                 padding-left: 10px
             }
 
             @media (min-width: 1200px) {
-                .menu__list_child-l2 {
+                .expekuzpky {
                     display:block
                 }
 
-                .menu__list_open {
+                .fcdfwpjczhv_open {
                     display: flex
                 }
 
-                .menu__item {
+                .xjdyerlstzew {
                     margin-left: 48px
                 }
 
-                .menu__item_child {
+                .tjlhaljqycyc {
                     min-width: 220px;
                     padding: 0 5px
                 }
             }
 
-            .menu__item_child-l2 {
+            .qzfffvrltteiqgy {
                 padding-bottom: 10px;
                 padding-left: 10px
             }
 
             @media (min-width: 1200px) {
-                .menu__item_child-l2 {
+                .qzfffvrltteiqgy {
                     height:30px;
                     display: flex;
                     align-items: center;
@@ -1035,16 +1035,16 @@
                 }
             }
 
-            .menu__item_child-l2:last-of-type {
+            .qzfffvrltteiqgy:last-of-type {
                 padding-bottom: 0
             }
 
-            .menu__item-icon {
+            .zryavrdcozuwepy {
                 display: none
             }
 
             @media (min-width: 1200px) and (min-width:1200px) {
-                .menu__item-icon .fa,.menu__item-icon .svg-ico {
+                .zryavrdcozuwepy .fagswpdrqrifrtv,.zryavrdcozuwepy .tgjlwwsxvgaj {
                     font-size:14px;
                     width: 14px;
                     margin: 0 5px 0 0
@@ -1052,7 +1052,7 @@
             }
 
             @media (min-width: 1200px) {
-                .menu__item-icon {
+                .zryavrdcozuwepy {
                     display:block;
                     font-size: 14px;
                     height: 14px;
@@ -1060,44 +1060,44 @@
                     text-align: center
                 }
 
-                .menu__item-icon .fa,.menu__item-icon .svg-ico {
+                .zryavrdcozuwepy .fagswpdrqrifrtv,.zryavrdcozuwepy .tgjlwwsxvgaj {
                     flex-shrink: 0
                 }
 
-                .menu__item-icon .fa-thumbs-up {
+                .zryavrdcozuwepy .isqwhswzxdpgiw {
                     color: #078e07
                 }
 
-                .menu__item-icon .fa-youtube {
+                .zryavrdcozuwepy .aeudwaqjyq {
                     color: red
                 }
 
-                .menu__item-icon .fa-android {
+                .zryavrdcozuwepy .eswyyljzif {
                     color: #a4c639
                 }
 
-                .menu__item-icon .fa-mobile {
+                .zryavrdcozuwepy .yvllijzowqc {
                     color: #5856d6
                 }
 
-                .menu__item-icon .fa-apple {
+                .zryavrdcozuwepy .xqaafvhfqiveyfw {
                     color: #7d7d7d
                 }
 
-                .menu__item-icon .fa-wifi {
+                .zryavrdcozuwepy .dfaytjcpatgxp {
                     color: #005aac
                 }
 
-                .menu__item-icon .fa-desktop {
+                .zryavrdcozuwepy .agertkxshlcjpl {
                     color: #005ed3
                 }
 
-                .menu__item-icon .fa-windows {
+                .zryavrdcozuwepy .rhhqihiygzrx {
                     color: #00a1f1
                 }
             }
 
-            .menu__link {
+            .alurswxvqzy {
                 cursor: pointer;
                 position: relative;
                 color: #fff;
@@ -1105,12 +1105,12 @@
             }
 
             @media (min-width: 1200px) {
-                .menu__link {
+                .alurswxvqzy {
                     color:#37474f
                 }
             }
 
-            .menu__link_child {
+            .kulzooyxczypjcd {
                 cursor: pointer;
                 position: relative;
                 color: #fff;
@@ -1118,23 +1118,23 @@
             }
 
             @media (min-width: 1200px) {
-                .menu__link_child {
+                .kulzooyxczypjcd {
                     color:#37474f
                 }
 
-                .menu__link_child::after {
+                .kulzooyxczypjcd::after {
                     display: none
                 }
             }
 
-            .menu__link_child-l2 {
+            .heuyltvkozq {
                 cursor: pointer;
                 position: relative;
                 color: #fff;
                 font-size: 12px
             }
 
-            .menu__link_hasChildren::after {
+            .dhapghjkcxap::after {
                 content: '';
                 position: absolute;
                 top: calc(50% - 6px);
@@ -1148,7 +1148,7 @@
             }
 
             @media (min-width: 1200px) {
-                .menu__link_child-l2 {
+                .heuyltvkozq {
                     color:#37474f;
                     display: flex;
                     align-items: center;
@@ -1157,43 +1157,43 @@
                     padding: 0 10px
                 }
 
-                .menu__link_child-l2:hover {
+                .heuyltvkozq:hover {
                     background: #e7e7e7
                 }
 
-                .menu__link_hasChildren::after {
+                .dhapghjkcxap::after {
                     border-top: 8px solid #37474f
                 }
 
-                .menu__search {
+                .olavpoyxoh {
                     display: none
                 }
             }
 
-            .menu__link_open::after {
+            .alurswxvqzy_open::after {
                 top: calc(50% - 4px);
                 transform: rotate(135deg)
             }
 
-            .menu__search {
+            .olavpoyxoh {
                 padding-top: 25px;
                 border-top: 1px solid #174c74;
                 position: relative
             }
 
-            .langSwitcher {
+            .xocsltpxrjoow {
                 padding-bottom: 25px;
                 border-bottom: 1px solid #174c74
             }
 
-            .langSwitcher__btn {
+            .xrxghdikctikf {
                 color: #fff;
                 font-size: 16px;
                 cursor: pointer;
                 position: relative
             }
 
-            .langSwitcher__btn::after {
+            .xrxghdikctikf::after {
                 content: '';
                 position: absolute;
                 top: calc(50% - 6px);
@@ -1207,38 +1207,38 @@
             }
 
             @media (min-width: 1200px) {
-                .langSwitcher {
+                .xocsltpxrjoow {
                     order:2;
                     margin-left: 48px;
                     padding-bottom: 0;
                     border-bottom: 0
                 }
 
-                .langSwitcher__btn {
+                .xrxghdikctikf {
                     color: #37474f
                 }
 
-                .langSwitcher__btn::after {
+                .xrxghdikctikf::after {
                     border-top: 8px solid #37474f
                 }
             }
 
-            .langSwitcher__btn_open::after {
+            .xrxghdikctikf_open::after {
                 top: calc(50% - 4px);
                 transform: rotate(135deg)
             }
 
-            .langSwitcher__list {
+            .evraklwrxjrchtz {
                 display: none;
                 margin: 10px 0 0
             }
 
-            .langSwitcher__list_open {
+            .evraklwrxjrchtz_open {
                 display: block
             }
 
             @media (min-width: 1200px) {
-                .langSwitcher__list_open {
+                .evraklwrxjrchtz_open {
                     width:300px;
                     position: absolute;
                     z-index: 99;
@@ -1257,12 +1257,12 @@
                 }
             }
 
-            .langSwitcher__item {
+            .rezvpkicfpjkt {
                 padding-bottom: 10px;
                 padding-left: 10px
             }
 
-            .langSwitcher__link {
+            .xocsltpxrjoow__link {
                 display: block;
                 cursor: pointer;
                 position: relative;
@@ -1272,26 +1272,26 @@
             }
 
             @media (min-width: 1200px) {
-                .langSwitcher__item {
+                .rezvpkicfpjkt {
                     padding:0;
                     display: block
                 }
 
-                .langSwitcher__link {
+                .xocsltpxrjoow__link {
                     padding: 5px;
                     color: #37474f
                 }
 
-                .langSwitcher__link:hover {
+                .xocsltpxrjoow__link:hover {
                     background: #e7e7e7
                 }
             }
 
-            .langSwitcher__link_rtl {
+            .tutziupckciu {
                 text-align: right
             }
 
-            .search__input {
+            .lfcrtapgydg {
                 border-radius: 6px;
                 width: 100%;
                 padding: 6px;
@@ -1299,27 +1299,27 @@
                 color: #37474f
             }
 
-            .search__btn {
+            .yayxucedxxeudfg {
                 position: absolute;
                 color: #266ba9;
                 bottom: 6px;
                 right: 8px
             }
 
-            .search__btn_close,.search__btn_go {
+            .ltfpifzcspycsit,.ylrjrwlfrykatg {
                 display: none
             }
 
-            .search__btn_spinner {
+            .azpdlwrsrlkrvzx {
                 display: inline-block;
                 animation: 2s linear infinite pulse
             }
 
-            .search__result {
+            .iacotewyaoudjlf {
                 display: none
             }
 
-            .fa-pulse {
+            .fagswpdrqrifrtv-pulse {
                 display: inline-block;
                 animation: 2s linear infinite pulse
             }
@@ -1374,11 +1374,11 @@
                 }
             }
 
-            .disclosure__wrap_ppc {
+            .ajozzozjgyxxd {
                 margin: 0 0 10px
             }
 
-            .disclosure__blocks {
+            .auarzxaypkql {
                 display: flex;
                 justify-content: flex-end;
                 flex-wrap: wrap;
@@ -1387,38 +1387,38 @@
                 color: #37474f
             }
 
-            .disclosure__label {
+            .pkdkdpgyvzj {
                 flex: 0 0 100%
             }
 
             @media (min-width: 768px) {
-                .disclosure__wrap_ppc {
+                .ajozzozjgyxxd {
                     margin:10px 0
                 }
 
-                .disclosure__label {
+                .pkdkdpgyvzj {
                     flex: 0 0 auto
                 }
             }
 
-            .disclosure__item {
+            .vxezxyjwusw {
                 flex: 0 0 50%;
                 margin: 0;
                 position: relative
             }
 
-            .disclosure__btn {
+            .ezrtkzxwkjgs {
                 cursor: pointer;
                 list-style: none;
                 text-decoration: underline;
                 margin-bottom: 5px
             }
 
-            .disclosure__btn::-webkit-details-marker,.disclosure__btn::marker {
+            .ezrtkzxwkjgs::-webkit-details-marker,.ezrtkzxwkjgs::marker {
                 display: none
             }
 
-            .disclosure__text {
+            .prsayuyijgx {
                 position: absolute;
                 z-index: 99;
                 background: #fff;
@@ -1429,37 +1429,37 @@
                 color: rgba(55,71,79,.8)
             }
 
-            .disclosure__text_odd {
+            .zavffzehrrciyqc {
                 right: 10px
             }
 
             @media (min-width: 480px) {
-                .disclosure__text_odd {
+                .zavffzehrrciyqc {
                     right:auto
                 }
             }
 
-            .page__wrapper {
+            .jytalaratsdog {
                 background-position: calc(100% + 20px) 280px;
                 background-size: 110%;
                 background-repeat: no-repeat
             }
 
             @media (min-width: 768px) {
-                .disclosure__item {
+                .vxezxyjwusw {
                     flex:0 0 auto;
                     margin-left: 12px
                 }
 
-                .disclosure__text_odd {
+                .zavffzehrrciyqc {
                     right: auto
                 }
 
-                .disclosure__text_last {
+                .uljifxqvkcrpcz {
                     right: 0
                 }
 
-                .page__wrapper {
+                .jytalaratsdog {
                     background-position: calc(100% - 20px) 200px;
                     background-size: auto 557px
                 }
@@ -1479,21 +1479,21 @@
                 }
             }
 
-            .hero__col {
+            .picjvkykfoxy {
                 width: 100%;
                 display: block;
                 max-width: 700px;
                 color: #37474f
             }
 
-            .hero__col:nth-child(2) {
+            .picjvkykfoxy:nth-child(2) {
                 justify-content: flex-end;
                 width: 100%;
                 display: flex;
                 align-items: flex-end
             }
 
-            .hero__title {
+            .zihwvdujrohlc {
                 font-size: 24px;
                 line-height: 31px;
                 font-family: Cabin,Arial,Sans-Serif;
@@ -1503,20 +1503,20 @@
             }
 
             @media (min-width: 480px) {
-                .hero__title {
+                .zihwvdujrohlc {
                     font-size:36px;
                     line-height: 36px
                 }
             }
 
             @media (min-width: 1400px) {
-                .hero__title {
+                .zihwvdujrohlc {
                     font-size:40px;
                     line-height: 40px
                 }
             }
 
-            .hero__description {
+            .jqjhgeowulpfko {
                 font-size: 16px;
                 line-height: 21px;
                 font-family: Cabin,Arial,Sans-Serif;
@@ -1525,23 +1525,23 @@
             }
 
             @media (min-width: 768px) {
-                .hero__description {
+                .jqjhgeowulpfko {
                     display:block
                 }
             }
 
-            .hero__custom-list ul {
+            .rxvwhesajqldq ul {
                 padding: 0;
                 margin: 0 0 18px
             }
 
             @media (min-width: 480px) {
-                .hero__custom-list ul {
+                .rxvwhesajqldq ul {
                     margin-bottom:24px
                 }
             }
 
-            .hero__custom-list ul li {
+            .rxvwhesajqldq ul li {
                 padding-left: 20px;
                 list-style: none;
                 margin-bottom: 8px;
@@ -1552,7 +1552,7 @@
                 font-family: Cabin,Arial,Sans-Serif
             }
 
-            .hero__custom-list ul li:before {
+            .rxvwhesajqldq ul li:before {
                 content: '';
                 display: inline-block;
                 width: 15px;
@@ -1566,18 +1566,18 @@
                 margin-left: -20px
             }
 
-            .hero__featured {
+            .qwazppwqqgyf {
                 display: none;
                 opacity: .8
             }
 
             @media (min-width: 768px) {
-                .hero__featured {
+                .qwazppwqqgyf {
                     display:block
                 }
             }
 
-            .hero__featured-title {
+            .ieqpggfqtvhky {
                 color: #37474f;
                 margin-bottom: 8px;
                 font-style: normal;
@@ -1588,25 +1588,25 @@
             }
 
             @media (min-width: 1400px) {
-                .hero__custom-list ul {
+                .rxvwhesajqldq ul {
                     margin-bottom:36px
                 }
 
-                .hero__custom-list ul li {
+                .rxvwhesajqldq ul li {
                     margin-bottom: 12px
                 }
 
-                .hero__featured-title {
+                .ieqpggfqtvhky {
                     margin-bottom: 16px
                 }
             }
 
-            .hero__featured-image-list img {
+            .srpfazqiuugr img {
                 max-width: 75%;
                 margin-bottom: 24px
             }
 
-            .hero__meta {
+            .fxhkpeujifhc {
                 letter-spacing: 0;
                 color: #37474f;
                 opacity: .8;
@@ -1619,23 +1619,23 @@
             }
 
             @media (max-width: 480px) {
-                .hero__meta {
+                .fxhkpeujifhc {
                     display:none
                 }
             }
 
             @media (min-width: 1400px) {
-                .hero__featured-image-list img {
+                .srpfazqiuugr img {
                     margin-bottom:36px;
                     max-width: 100%
                 }
 
-                .hero__meta {
+                .fxhkpeujifhc {
                     padding-bottom: 36px
                 }
             }
 
-            .hero__meta .hero__date:before {
+            .fxhkpeujifhc .luhfsggwvexf:before {
                 content: '';
                 display: inline-block;
                 width: 12px;
@@ -1647,7 +1647,7 @@
                 background-size: contain
             }
 
-            .hero__image {
+            .wxzlqkksqprx {
                 max-width: 140px;
                 height: 85px;
                 display: flex;
@@ -1656,23 +1656,23 @@
             }
 
             @media (min-width: 480px) {
-                .hero__image {
+                .wxzlqkksqprx {
                     max-width:none;
                     height: 160px
                 }
             }
 
             @media (min-width: 1200px) {
-                .hero__image {
+                .wxzlqkksqprx {
                     height:300px
                 }
             }
 
-            .hero__image img {
+            .wxzlqkksqprx img {
                 max-height: 100%
             }
 
-            .vendors {
+            .fijxjgwxxzdrk {
                 display: block;
                 flex-wrap: wrap;
                 margin: 0 auto;
@@ -1680,7 +1680,7 @@
                 justify-content: center
             }
 
-            .vendors .vendor {
+            .fijxjgwxxzdrk .vwajxwuuagjfctd {
                 background: #fff;
                 border-radius: 6px;
                 padding: 47px 12px 12px;
@@ -1689,24 +1689,24 @@
                 box-shadow: 5px 0 15px #0000001A
             }
 
-            .vendors .vendor:hover {
+            .fijxjgwxxzdrk .vwajxwuuagjfctd:hover {
                 box-shadow: 5px 0 15px rgba(0,0,0,.07)
             }
 
-            .vendors .vendor-1 {
+            .fijxjgwxxzdrk .ceclvvzqkvylye {
                 box-shadow: 5px 0 30px #dd2C004D
             }
 
-            .vendors .vendor-1:hover {
+            .fijxjgwxxzdrk .ceclvvzqkvylye:hover {
                 box-shadow: 5px 0 30px #dd2C003B
             }
 
             @media (min-width: 768px) {
-                .vendors {
+                .fijxjgwxxzdrk {
                     display:flex
                 }
 
-                .vendors .vendor {
+                .fijxjgwxxzdrk .vwajxwuuagjfctd {
                     display: flex;
                     flex-wrap: nowrap;
                     margin-bottom: 24px;
@@ -1715,7 +1715,7 @@
                 }
             }
 
-            .vendors .vendor__position {
+            .fijxjgwxxzdrk .ptgvjhyxspqioa {
                 position: absolute;
                 padding: 4px 14px;
                 height: 24px;
@@ -1734,25 +1734,25 @@
                 border-radius: 6px 0
             }
 
-            .vendors .vendor-1 .vendor__position {
+            .fijxjgwxxzdrk .ceclvvzqkvylye .ptgvjhyxspqioa {
                 color: #37474f;
                 background: no-repeat padding-box #f57c00;
                 padding: 10px 14px;
                 height: 35px
             }
 
-            .vendors .vendor-2 .vendor__position,.vendors .vendor-3 .vendor__position {
+            .fijxjgwxxzdrk .kwowraaqccyp .ptgvjhyxspqioa,.fijxjgwxxzdrk .zwtzlkuipwkro .ptgvjhyxspqioa {
                 background: no-repeat padding-box #00838f;
                 padding: 10px 14px;
                 height: 35px
             }
 
-            .vendors .vendor-1 .vendor__mark {
+            .fijxjgwxxzdrk .ceclvvzqkvylye .zxpgzqrcrptxri {
                 color: #ff9800;
                 font-weight: 700
             }
 
-            .vendors .vendor__ribbon {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg {
                 position: absolute;
                 height: 35px;
                 display: flex;
@@ -1771,60 +1771,60 @@
                 border-radius: 6px 0
             }
 
-            .vendors .vendor__ribbon.first {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg.hppworhdas {
                 font-weight: 600
             }
 
-            .vendors .vendor__ribbon.first .separator {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg.hppworhdas .opwzizfulsvfcqo {
                 display: none
             }
 
-            .vendors .vendor__ribbon.first a {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg.hppworhdas a {
                 color: #fff;
                 font-size: 14px;
                 font-weight: 600;
                 display: inline-block
             }
 
-            .vendors .vendor__ribbon.first a.dynamic__text-ribbon2 {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg.hppworhdas a.gozhpfuzzgyydil {
                 display: none
             }
 
-            .vendors .vendor__ribbon .dynamic__text-ribbon1 {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg .okalrtfwkizyzxx {
                 color: #fff
             }
 
-            .vendors .vendor__ribbon.second {
+            .fijxjgwxxzdrk .jxjeucuqklcxztg.riyfkrhjogavv {
                 display: flex;
                 font-weight: 600;
                 background-color: #00acc1
             }
 
-            .vendors .vendor .listing__item-icon {
+            .fijxjgwxxzdrk .vwajxwuuagjfctd .jjxxhuyxdi {
                 color: #5ca0dd;
                 margin-right: 5px
             }
 
-            .vendors .vendor__logoSection {
+            .fijxjgwxxzdrk .frakjzzzpi {
                 width: 100%
             }
 
-            .vendors .vendor__logoSection-logo {
+            .fijxjgwxxzdrk .egoprpraww {
                 max-width: 180px;
                 margin-bottom: 12px;
                 height: 50px
             }
 
-            .vendors .vendor__logoSection-logo img {
+            .fijxjgwxxzdrk .egoprpraww img {
                 max-width: 100%;
                 max-height: 100%
             }
 
-            .vendors .vendor__logoSection-description {
+            .fijxjgwxxzdrk .zlgiuxgidtip {
                 display: none
             }
 
-            .vendors .vendor__logoSection-listing ul li {
+            .fijxjgwxxzdrk .yjoikzakjklhhiu ul li {
                 font-style: normal;
                 font-weight: 400;
                 font-size: 14px;
@@ -1834,22 +1834,22 @@
                 margin-left: 4px
             }
 
-            .vendors .vendor__logoSection-listing ul li:last-child {
+            .fijxjgwxxzdrk .yjoikzakjklhhiu ul li:last-child {
                 margin-bottom: 12px
             }
 
             @media (min-width: 768px) {
-                .vendors .vendor__ribbon.first .separator {
+                .fijxjgwxxzdrk .jxjeucuqklcxztg.hppworhdas .opwzizfulsvfcqo {
                     margin:0 24px;
                     font-size: 20px;
                     display: inline-block
                 }
 
-                .vendors .vendor__ribbon.first a.dynamic__text-ribbon2 {
+                .fijxjgwxxzdrk .jxjeucuqklcxztg.hppworhdas a.gozhpfuzzgyydil {
                     display: inline-block
                 }
 
-                .vendors .vendor__logoSection {
+                .fijxjgwxxzdrk .frakjzzzpi {
                     width: 318px;
                     color: #37474f;
                     font-style: normal;
@@ -1859,25 +1859,25 @@
                     font-family: Cabin,Arial,Sans-Serif
                 }
 
-                .vendors .vendor__logoSection-logo {
+                .fijxjgwxxzdrk .egoprpraww {
                     max-width: 220px;
                     height: 55px
                 }
 
-                .vendors .vendor__logoSection-description {
+                .fijxjgwxxzdrk .zlgiuxgidtip {
                     display: block
                 }
 
-                .vendors .vendor__logoSection-description>* {
+                .fijxjgwxxzdrk .zlgiuxgidtip>* {
                     font-weight: 600
                 }
 
-                .vendors .vendor__logoSection-listing {
+                .fijxjgwxxzdrk .yjoikzakjklhhiu {
                     display: none
                 }
             }
 
-            .vendors .vendor__logoSection-discount {
+            .fijxjgwxxzdrk .klkilrzcpewiq {
                 font-size: 16px;
                 font-weight: 700;
                 color: #266ba9;
@@ -1886,7 +1886,7 @@
                 margin-left: 4px
             }
 
-            .vendors .vendor__score-btn {
+            .fijxjgwxxzdrk .yhujlrgfayvwv {
                 display: flex;
                 width: auto;
                 flex-shrink: 0;
@@ -1895,23 +1895,23 @@
             }
 
             @media (min-width: 768px) {
-                .vendors .vendor__score-btn {
+                .fijxjgwxxzdrk .yhujlrgfayvwv {
                     width:150px
                 }
             }
 
             @media (min-width: 992px) {
-                .hero__title {
+                .zihwvdujrohlc {
                     white-space:nowrap
                 }
 
-                .vendors .vendor__score-btn {
+                .fijxjgwxxzdrk .yhujlrgfayvwv {
                     display: flex;
                     width: auto
                 }
             }
 
-            .vendors .vendor__scoreSection {
+            .fijxjgwxxzdrk .eiwqvzeefgk {
                 max-width: 64px;
                 position: absolute;
                 margin-right: 0;
@@ -1919,30 +1919,30 @@
                 right: 14px
             }
 
-            .vendors .vendor__scoreSection.first .donut .donut-segment {
+            .fijxjgwxxzdrk .eiwqvzeefgk.hppworhdas .tvvidjzdskaj .txkiireaeiqz {
                 stroke: #ff9800
             }
 
-            .vendors .vendor__scoreSection .donut {
+            .fijxjgwxxzdrk .eiwqvzeefgk .tvvidjzdskaj {
                 width: 64px;
                 margin-top: -13px
             }
 
-            .vendors .vendor__scoreSection .donut text {
+            .fijxjgwxxzdrk .eiwqvzeefgk .tvvidjzdskaj text {
                 fill: #37474f;
                 font-size: 17px
             }
 
-            .vendors .vendor__scoreSection .donut .donut-segment {
+            .fijxjgwxxzdrk .eiwqvzeefgk .tvvidjzdskaj .txkiireaeiqz {
                 stroke: #00acc1
             }
 
-            .vendors .vendor__scoreSection .vendor__mark {
+            .fijxjgwxxzdrk .eiwqvzeefgk .zxpgzqrcrptxri {
                 display: none
             }
 
             @media (min-width: 768px) {
-                .vendors .vendor__scoreSection {
+                .fijxjgwxxzdrk .eiwqvzeefgk {
                     top:0;
                     right: auto;
                     max-width: 100%;
@@ -1954,29 +1954,29 @@
                     flex-wrap: wrap
                 }
 
-                .vendors .vendor__scoreSection svg.donut {
+                .fijxjgwxxzdrk .eiwqvzeefgk svg.tvvidjzdskaj {
                     margin: 0 auto;
                     display: block;
                     width: 91px
                 }
 
-                .vendors .vendor__scoreSection svg.donut text {
+                .fijxjgwxxzdrk .eiwqvzeefgk svg.tvvidjzdskaj text {
                     font-size: 17px
                 }
 
-                .vendors .vendor__scoreSection svg.donut .donut-segment {
+                .fijxjgwxxzdrk .eiwqvzeefgk svg.tvvidjzdskaj .txkiireaeiqz {
                     stroke: #00acc1
                 }
 
-                .vendors .vendor__scoreSection svg.donut.first .donut-segment {
+                .fijxjgwxxzdrk .eiwqvzeefgk svg.tvvidjzdskaj.hppworhdas .txkiireaeiqz {
                     stroke: #ff9800
                 }
 
-                .vendors .vendor__scoreSection svg.donut.other .donut-segment {
+                .fijxjgwxxzdrk .eiwqvzeefgk svg.tvvidjzdskaj.kcjpzggrlv .txkiireaeiqz {
                     stroke: #5ca0dd
                 }
 
-                .vendors .vendor__scoreSection .vendor__mark {
+                .fijxjgwxxzdrk .eiwqvzeefgk .zxpgzqrcrptxri {
                     text-align: center;
                     font-size: 14px;
                     line-height: 27px;
@@ -1986,37 +1986,37 @@
                 }
             }
 
-            .vendors .vendor__featured {
+            .fijxjgwxxzdrk .vasxxhqrjlgp {
                 display: none;
                 width: auto;
                 padding: 0 15px
             }
 
             @media (min-width: 992px) {
-                .vendors .vendor__scoreSection {
+                .fijxjgwxxzdrk .eiwqvzeefgk {
                     margin-right:30px
                 }
 
-                .vendors .vendor__featured {
+                .fijxjgwxxzdrk .vasxxhqrjlgp {
                     width: 410px
                 }
             }
 
-            .vendors .vendor__featured ul.featured__list_mobile {
+            .fijxjgwxxzdrk .vasxxhqrjlgp ul.swsxlhivwijsuyd_mobile {
                 display: none
             }
 
             @media (max-width: 480px) {
-                .vendors .vendor__featured ul.featured__list_mobile {
+                .fijxjgwxxzdrk .vasxxhqrjlgp ul.swsxlhivwijsuyd_mobile {
                     display:block
                 }
 
-                .vendors .vendor__featured ul.featured__list_desktop {
+                .fijxjgwxxzdrk .vasxxhqrjlgp ul.oocdpiaaxwdvrso {
                     display: none
                 }
             }
 
-            .vendors .vendor__featured ul li {
+            .fijxjgwxxzdrk .vasxxhqrjlgp ul li {
                 margin-bottom: 9px;
                 font-style: normal;
                 font-weight: 400;
@@ -2026,11 +2026,11 @@
                 padding-left: 21px
             }
 
-            .vendors .vendor__featured ul li:last-child {
+            .fijxjgwxxzdrk .vasxxhqrjlgp ul li:last-child {
                 margin-bottom: 12px
             }
 
-            .vendors .vendor__featured ul li:before {
+            .fijxjgwxxzdrk .vasxxhqrjlgp ul li:before {
                 content: '';
                 display: inline-block;
                 width: 15px;
@@ -2044,7 +2044,7 @@
                 margin-left: -21px
             }
 
-            .vendors .vendor__featured .available__os .fa {
+            .fijxjgwxxzdrk .vasxxhqrjlgp .auxcpgirosowi .fagswpdrqrifrtv {
                 font-size: 19px;
                 display: inline-block;
                 margin-right: 24px;
@@ -2052,7 +2052,7 @@
                 color: #37474f
             }
 
-            .vendors .vendor__btn {
+            .fijxjgwxxzdrk .vditofwziwoo {
                 display: block;
                 align-items: center;
                 width: 100%;
@@ -2060,22 +2060,22 @@
             }
 
             @media (min-width: 768px) {
-                .vendors .vendor__featured {
+                .fijxjgwxxzdrk .vasxxhqrjlgp {
                     display:block
                 }
 
-                .vendors .vendor__btn {
+                .fijxjgwxxzdrk .vditofwziwoo {
                     width: auto;
                     display: flex;
                     flex-wrap: wrap
                 }
             }
 
-            .vendors .vendor__btn-area {
+            .fijxjgwxxzdrk .vkywthcwaj {
                 text-align: center
             }
 
-            .vendors .vendor__btn-site-link {
+            .fijxjgwxxzdrk .psouxettwl {
                 width: 100%;
                 text-align: center;
                 font-size: 14px;
@@ -2086,16 +2086,16 @@
             }
 
             @media (min-width: 768px) {
-                .vendors .vendor__btn-site-link {
+                .fijxjgwxxzdrk .psouxettwl {
                     display:block
                 }
             }
 
-            .vendors .vendor__btn .button {
+            .fijxjgwxxzdrk .vditofwziwoo .xtkgadqcgwh {
                 font-size: 19px
             }
 
-            #bio_ep {
+            #pyjkejexoud {
                 display: none
             }
         </style>
@@ -2135,7 +2135,7 @@
                             return c.toString(1) + ".people (stub)"
                         }
                         ;
-                        i = "disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                        i = "disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.kiqcfpodouf_charges people.delete_user".split(" ");
                         for (g = 0; g < i.length; g++)
                             f(c, i[g]);
                         b._i.push([a, e, d])
@@ -2158,7 +2158,7 @@
         </script>
         <!-- end Alooma -->
         <!-- CHEQ INVOCATION TAG -->
-        <script async src="https://sand.ostrichesica.com/clicktrue_invocation.js?id=15090" data-ch="VPNMentor" class="ct_clicktrue_15090" data-jsonp="onCheqResponse"></script>
+        <script async src="https://sand.ostrichesica.com/clicktrue_invocation.js?id=15090" data-ch="VPNMentor" class="yyhclgoagec" data-jsonp="onCheqResponse"></script>
         <!-- END CHEQ INVOCATION TAG -->
         <style></style>
         <meta name="robots" content="noindex, nofollow">
@@ -2204,7 +2204,7 @@
                                                                                                                                                                                                                                                                                                             
                                                                                                     
 
-    Hello! We provide cybersecurity tips from top tech experts and create honest VPN reviews. 
+    Hello! We provide cybersecurity tips from top tech xjgolxqttf and create honest VPN reviews. 
     Is your data safe online? Find out with this IP tool: https://www.vpnmentor.com/tools/ipinfo/
 -->
         <link rel='dns-prefetch' href='//www.vpn-mentors.com'/>
@@ -2216,30 +2216,33 @@
         <style></style>
         <meta name="referrer" content="no-referrer">
         <meta name="theme-color" content="#3382c2"/>
-    </head>
+    
+
+</head>
     <body class="">
-        <div id="pageWrapper" class="page__wrapper" style="background-image: url('wp-content/themes/assets/img/header_background_blob.svg');">
+
+        <div id="dhzorgqldgkkviw" class="jytalaratsdog" style="background-image: url('wp-content/themes/assets/img/header_background_blob.svg');">
             <header>
-                <div class="container">
-                    <a id='main_logo' onmousedown="clickedLinkInternal('Header Logo','7 Best VPNs for 2022', event);" class="logo" href="https://www.vpn-mentors.com/">
+                <div class="hpdlsfcgev">
+                    <a id='xpqkhrupqhgzaos' onmousedown="clickedLinkInternal('Header Logo','7 Best VPNs for 2022', event);" class="logo" href="https://www.vpn-mentors.com/">
                         <img src="wp-content/themes/assets/img/vm_new_logo.svg" width="156" height="42" alt="vpnmentor">
                     </a>
                     <nav class="menu">
-                        <div class="menu__burger js-trigger">
+                        <div class="vveikaicdvpx hwfsjdizry">
                             <div></div>
                             <div></div>
                             <div></div>
                         </div>
                         
                             
-                            <!--                    <div class="menu__search">-->
-                            <!--                        <input class="search__input" type="text" name="search" placeholder="Search">-->
-                            <!--                        <div class="search__btn" >-->
-                            <!--                            <span class="search__btn_go fa fa-search" ></span>-->
-                            <!--                            <span class="search__btn_spinner fa fa-spinner-solid"></span>-->
-                            <!--                            <span class="search__btn_close fa fa-times"></span>-->
+                            <!--                    <div class="olavpoyxoh">-->
+                            <!--                        <input class="lfcrtapgydg" type="text" name="search" placeholder="Search">-->
+                            <!--                        <div class="yayxucedxxeudfg" >-->
+                            <!--                            <span class="ylrjrwlfrykatg fagswpdrqrifrtv picherigdjgi" ></span>-->
+                            <!--                            <span class="azpdlwrsrlkrvzx fagswpdrqrifrtv yohceatpvzt"></span>-->
+                            <!--                            <span class="ltfpifzcspycsit fagswpdrqrifrtv rgaiietjwk"></span>-->
                             <!--                        </div>-->
-                            <!--                        <div class="search__result">-->
+                            <!--                        <div class="iacotewyaoudjlf">-->
                             <!---->
                             <!--                        </div>-->
                             <!--                    </div>-->
@@ -2247,39 +2250,35 @@
                     </nav>
                 </div>
             </header>
-            <div class="disclosure__wrap disclosure__wrap_ppc">
-                <div class="container">
-                    <div class="disclosure__blocks main-disclosure">
-                        <span class="disclosure__label">Disclosure:                    </span>
-                        <details class="disclosure__item">
-                            <summary class="disclosure__btn">Professional Reviews                            </summary>
-                            <p class="disclosure__text
-                                      disclosure__text_even                                      disclosure__text_ ">vpnMentor contains reviews that are written by our community reviewers, and are based on the reviewers' independent and professional examination of the products/services.                            </p>
+            <div class="uhfwyjwqflpe ajozzozjgyxxd">
+                <div class="hpdlsfcgev">
+                    <div class="auarzxaypkql gqapehyxkochuc">
+                        <span class="pkdkdpgyvzj">Disclosure:                    </span>
+                        <details class="vxezxyjwusw">
+                            <summary class="ezrtkzxwkjgs">Professional Reviews                            </summary>
+                            <p class="epszlxirttue                                      jlfgxtfxeflded                                      jvkfdcldsez ">vpnMentor contains reviews that are written by our community reviewers, and are based on the reviewers' independent and professional examination of the products/services.                            </p>
                         </details>
-                        <details class="disclosure__item">
-                            <summary class="disclosure__btn">Ownership                            </summary>
-                            <p class="disclosure__text
-                                      disclosure__text_odd                                      disclosure__text_ ">vpnMentor is owned by Kape Technologies PLC, which owns the following products: ExpressVPN, CyberGhost, ZenMate, Private Internet Access, and Intego, which may be reviewed on this website.                            </p>
+                        <details class="vxezxyjwusw">
+                            <summary class="ezrtkzxwkjgs">Ownership                            </summary>
+                            <p class="epszlxirttue                                      zavffzehrrciyqc                                      jvkfdcldsez ">vpnMentor is owned by Kape Technologies PLC, which owns the following products: ExpressVPN, CyberGhost, ZenMate, Private Internet Access, and Intego, which may be reviewed on this website.                            </p>
                         </details>
-                        <details class="disclosure__item">
-                            <summary class="disclosure__btn">Affiliate Commissions                            </summary>
-                            <p class="disclosure__text
-                                      disclosure__text_even                                      disclosure__text_ ">While vpnMentor may receive commissions when a purchase is made using our links, this has no influence on the reviews content or on the reviewed products/services. We provide direct links to purchase products that are part of affiliate programs.                            </p>
+                        <details class="vxezxyjwusw">
+                            <summary class="ezrtkzxwkjgs">Affiliate Commissions                            </summary>
+                            <p class="epszlxirttue                                      jlfgxtfxeflded                                      jvkfdcldsez ">While vpnMentor may receive commissions when a purchase is made using our links, this has no influence on the reviews content or on the reviewed products/services. We provide direct esqhffzdsogwrdz to purchase products that are vcyzikevwjrroyy of affiliate programs.                            </p>
                         </details>
-                        <details class="disclosure__item">
-                            <summary class="disclosure__btn">Reviews Guidelines                            </summary>
-                            <p class="disclosure__text
-                                      disclosure__text_odd                                      disclosure__text_last ">The reviews published on vpnMentor are written by experts that examine the products according to our strict reviewing standards. Such standards ensure that each review is based on the independent, professional and honest examination of the reviewer, and takes into account the technical capabilities and qualities of the product together with its commercial value for users. The reviews and rankings we publish may take into consideration the affiliate commissions we earn for purchases through links on our website.                            </p>
+                        <details class="vxezxyjwusw">
+                            <summary class="ezrtkzxwkjgs">Reviews Guidelines                            </summary>
+                            <p class="epszlxirttue                                      zavffzehrrciyqc                                      uljifxqvkcrpcz ">The reviews published on vpnMentor are written by xjgolxqttf that examine the products according to our strict reviewing standards. Such standards ensure that each review is based on the independent, professional and honest examination of the reviewer, and takes into account the technical capabilities and qualities of the product together with its commercial value for users. The reviews and rankings we publish may take into consideration the affiliate commissions we earn for purchases through esqhffzdsogwrdz on our website.                            </p>
                         </details>
                     </div>
                 </div>
             </div>
-            <div class=" container">
+            <div class=" hpdlsfcgev">
                 <div class="hero">
-                    <div class="hero__col">
-                        <h1 class="hero__title" data-qa-id="ppc_page_title">7 Best VPNs for 2022</h1>
-                        <div class="hero__description">Excellent security features, widespread server networks, and reliable refund policies — secure internet access is just a few clicks away.</div>
-                        <div class="hero__custom-list">
+                    <div class="picjvkykfoxy">
+                        <h1 class="zihwvdujrohlc" data-qa-id="weuhyfvvgqyqih">7 Best VPNs for 2022</h1>
+                        <div class="jqjhgeowulpfko">Excellent security features, widespread server networks, and reliable refund policies — secure internet access is just a few clicks away.</div>
+                        <div class="rxvwhesajqldq">
                             <ul>
                                 <li>
                                     <b>Fast servers</b>
@@ -2299,990 +2298,990 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="hero__featured">
-                            <div class="hero__featured-title">vpnMentor has been featured on:</div>
-                            <div class="hero__featured-image-list">
+                        <div class="qwazppwqqgyf">
+                            <div class="ieqpggfqtvhky">vpnMentor has been qzfdktpczy on:</div>
+                            <div class="srpfazqiuugr">
                                 <img src="wp-content/themes/assets/img/ppc-hero-list.svg" alt="">
                             </div>
                         </div>
-                        <div class="hero__meta">
-                            <div class="hero__date" data-qa-id="published_date">Updated on 24th January 2022                </div>
+                        <div class="fxhkpeujifhc">
+                            <div class="luhfsggwvexf" data-qa-id="acwtzjqphkihk">Updated on 24th January 2022                </div>
                         </div>
                     </div>
-                    <div class="hero__col">
-                        <div class="hero__image">
+                    <div class="picjvkykfoxy">
+                        <div class="wxzlqkksqprx">
                             <img src="wp-content/uploads/2021/10/header_background_people_default.svg" alt="7 Best VPNs for 2022" width="293" height="173">
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="vendors" data-qa-id="vendors">
-                <div class="container">
-                    <div class="vendor vendor-1">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcVendorRow_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">1</div>
-                        <div class="vendor__ribbon first">
-                            <div class="vendor__ribbon-dynamic">
+            <div class="fijxjgwxxzdrk" data-qa-id="piqchdeutx">
+                <div class="hpdlsfcgev">
+                    <div class="vwajxwuuagjfctd ceclvvzqkvylye">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcVendorRow_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">1</div>
+                        <div class="jxjeucuqklcxztg hppworhdas">
+                            <div class="tccyzczxcqv">
                                 <a href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcFastestVpnRibbon_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Fastest VPN Ribbon', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">
-                                    <span class="dynamic__text-ribbon1">Fastest VPN</span>
+                                    <span class="okalrtfwkizyzxx">Fastest VPN</span>
                                 </a>
-                                <span class="separator">|</span>
-                                <a class="dynamic__text-ribbon2" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestRibbon_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Best Ribbon', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">
+                                <span class="opwzizfulsvfcqo">|</span>
+                                <a class="gozhpfuzzgyydil" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestRibbon_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Best Ribbon', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">
                                     <p>Best VPN for 2022</p>
                                 </a>
                             </div>
                         </div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="ExpressVPN" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <strong>Uninterrupted, high-speed browsing, zero logs so your online activity is always private.</strong>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Lightning-fast speeds to browse without lag                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Try it risk-free with its money-back guarantee                            
                                     </li>
                                 </ul>
                             </div>
-                            <div class="vendor__logoSection-discount">70% of our users choose EXPRESSVPN                    </div>
+                            <div class="klkilrzcpewiq">70% of our users choose EXPRESSVPN                    </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">Lightning-fast speeds to browse without lag</li>
-                                    <li class="featured__item">Servers in 90+ countries around the globe</li>
-                                    <li class="featured__item">Military-grade security to stay safe online</li>
-                                    <li class="featured__item">Try it risk-free with its money-back guarantee</li>
-                                    <li class="featured__item">Compatible with PC, Mac, iOS, Android, Routers and more</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">Lightning-fast speeds to browse without lag</li>
+                                    <li class="igudyejidlo">Servers in 90+ countries around the globe</li>
+                                    <li class="igudyejidlo">Military-grade security to stay safe online</li>
+                                    <li class="igudyejidlo">Try it risk-free with its money-back guarantee</li>
+                                    <li class="igudyejidlo">Compatible with PC, Mac, iOS, Android, Routers and more</li>
                                 </ul>
                             </div>
-                            <div class="available">
-                                <div class="available__os">
-                                    <span class="has-tooltip" aria-label="Windows">
-                                        <i class="fa fa-windows"></i>
+                            <div class="usxrtjwwoqlxx">
+                                <div class="auxcpgirosowi">
+                                    <span class="vokccvifif" aria-label="Windows">
+                                        <i class="fagswpdrqrifrtv rhhqihiygzrx"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="macOS">
-                                        <i class="fa fa-mac"></i>
+                                    <span class="vokccvifif" aria-label="macOS">
+                                        <i class="fagswpdrqrifrtv owpzihsuwyyvh"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="iOS">
-                                        <i class="fa fa-ios"></i>
+                                    <span class="vokccvifif" aria-label="iOS">
+                                        <i class="fagswpdrqrifrtv cvqlhdsusi"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Android">
-                                        <i class="fa fa-android"></i>
+                                    <span class="vokccvifif" aria-label="Android">
+                                        <i class="fagswpdrqrifrtv eswyyljzif"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Linux">
-                                        <i class="fa fa-linux"></i>
+                                    <span class="vokccvifif" aria-label="Linux">
+                                        <i class="fagswpdrqrifrtv cvtgjvgzlihxipg"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Router">
-                                        <i class="fa fa-router"></i>
+                                    <span class="vokccvifif" aria-label="Router">
+                                        <i class="fagswpdrqrifrtv vyjkpyotkv"></i>
                                     </span>
                                 </div>
                             </div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection first">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk hppworhdas">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut first">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="98 2" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">9.8                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj hppworhdas">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="98 2" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">9.8                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark">Outstanding!</div>
+                                    <div class="zxpgzqrcrptxri">Outstanding!</div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCTAButton_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcVendorURL_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">expressvpn.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCTAButton_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcVendorURL_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">expressvpn.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="vendor vendor-2">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcVendorRow_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">2</div>
-                        <div class="vendor__ribbon second">
-                            <div class="ribbon-dynamic">
+                    <div class="vwajxwuuagjfctd kwowraaqccyp">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcVendorRow_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">2</div>
+                        <div class="jxjeucuqklcxztg riyfkrhjogavv">
+                            <div class="jewfhrlglslfohr">
                                 <a href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcGreatValueRibbon_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Great Value Ribbon', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">
-                                    <span class="dynamic__text-ribbon1">Great Value For Money</span>
+                                    <span class="okalrtfwkizyzxx">Great Value For Money</span>
                                 </a>
                             </div>
                         </div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="CyberGhost VPN" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <strong>One of the most secure VPNs with 256-bit encryption and a range of protocols, including OpenVPN, WireGuard, and IKev2.</strong>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         7580+ servers with optimized options for even faster speeds                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         User-friendly apps for Android, iOS, and all major operating systems                            
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">7580+ servers with optimized options for even faster speeds</li>
-                                    <li class="featured__item">Zero-logs policy keeps your identity private</li>
-                                    <li class="featured__item">Boost your anonymity with DNS and IP leak protection</li>
-                                    <li class="featured__item">Try it for free for 45 days with its refund policy</li>
-                                    <li class="featured__item">User-friendly apps for all major operating systems and devices</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">7580+ servers with optimized options for even faster speeds</li>
+                                    <li class="igudyejidlo">Zero-logs policy keeps your identity private</li>
+                                    <li class="igudyejidlo">Boost your anonymity with DNS and IP leak protection</li>
+                                    <li class="igudyejidlo">Try it for free for 45 days with its refund policy</li>
+                                    <li class="igudyejidlo">User-friendly apps for all major operating systems and devices</li>
                                 </ul>
                             </div>
-                            <div class="available">
-                                <div class="available__os">
-                                    <span class="has-tooltip" aria-label="macOS">
-                                        <i class="fa fa-mac"></i>
+                            <div class="usxrtjwwoqlxx">
+                                <div class="auxcpgirosowi">
+                                    <span class="vokccvifif" aria-label="macOS">
+                                        <i class="fagswpdrqrifrtv owpzihsuwyyvh"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Windows">
-                                        <i class="fa fa-windows"></i>
+                                    <span class="vokccvifif" aria-label="Windows">
+                                        <i class="fagswpdrqrifrtv rhhqihiygzrx"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="iOS">
-                                        <i class="fa fa-ios"></i>
+                                    <span class="vokccvifif" aria-label="iOS">
+                                        <i class="fagswpdrqrifrtv cvqlhdsusi"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Android">
-                                        <i class="fa fa-android"></i>
+                                    <span class="vokccvifif" aria-label="Android">
+                                        <i class="fagswpdrqrifrtv eswyyljzif"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Linux">
-                                        <i class="fa fa-linux"></i>
+                                    <span class="vokccvifif" aria-label="Linux">
+                                        <i class="fagswpdrqrifrtv cvtgjvgzlihxipg"></i>
                                     </span>
-                                    <span class="has-tooltip" aria-label="Router">
-                                        <i class="fa fa-router"></i>
+                                    <span class="vokccvifif" aria-label="Router">
+                                        <i class="fagswpdrqrifrtv vyjkpyotkv"></i>
                                     </span>
                                 </div>
                             </div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection second">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk riyfkrhjogavv">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut second">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="92 8" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">9.2                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj riyfkrhjogavv">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="92 8" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">9.2                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark">Superb!</div>
+                                    <div class="zxpgzqrcrptxri">Superb!</div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCTAButton_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcVendorURL_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">cyberghostvpn.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCTAButton_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcVendorURL_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">cyberghostvpn.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="vendor vendor-3">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcVendorRow_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">3</div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                    <div class="vwajxwuuagjfctd zwtzlkuipwkro">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcVendorRow_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">3</div>
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Private Internet Access" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <b>10 simultaneous connections to protect all of your devices at the same time</b>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Connect up to 10 devices to one account                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Native apps for iOS, Android, and more                            
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">Connect up to 10 devices to one account</li>
-                                    <li class="featured__item">Protect your online activity with strong security features</li>
-                                    <li class="featured__item">Fast speeds for browsing</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">Connect up to 10 devices to one account</li>
+                                    <li class="igudyejidlo">Protect your online activity with strong security features</li>
+                                    <li class="igudyejidlo">Fast speeds for browsing</li>
                                 </ul>
                             </div>
-                            <div class="available">
-                                <div class="available__os"></div>
+                            <div class="usxrtjwwoqlxx">
+                                <div class="auxcpgirosowi"></div>
                             </div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection third">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk usgddltfdkf">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut third">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="90 10" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">9.0                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj usgddltfdkf">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="90 10" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">9.0                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark">Very Good!</div>
+                                    <div class="zxpgzqrcrptxri">Very Good!</div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCTAButton_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcVendorURL_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">privateinternetaccess.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCTAButton_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcVendorURL_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">privateinternetaccess.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="vendor vendor-4">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcVendorRow_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'PrivateVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">4</div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                    <div class="vwajxwuuagjfctd uprtzcdljx">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcVendorRow_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'PrivateVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">4</div>
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2019/05/Private-Hor.svg" alt="PrivateVPN" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <strong>Connect up to 6 devices and enjoy secure browsing </strong>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Connect up to 6 devices at once                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Reliable 30-day money-back guarantee                            
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">Unlimited bandwidth</li>
-                                    <li class="featured__item">Military-grade encryption</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">Unlimited bandwidth</li>
+                                    <li class="igudyejidlo">Military-grade encryption</li>
                                 </ul>
                             </div>
-                            <div class="available"></div>
+                            <div class="usxrtjwwoqlxx"></div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection other">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk kcjpzggrlv">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut other">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="89 11" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">8.9                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj kcjpzggrlv">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="89 11" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">8.9                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark">Good!</div>
+                                    <div class="zxpgzqrcrptxri">Good!</div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcCTAButton_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'PrivateVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcVendorURL_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'PrivateVPN')" rel="nofollow noopener noreferrer" target="_blank">privatevpn.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcCTAButton_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'PrivateVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcVendorURL_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'PrivateVPN')" rel="nofollow noopener noreferrer" target="_blank">privatevpn.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="vendor vendor-5">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=NDQyfA%3D%3D&vid=442&target=ppcVendorRow_442_Best_VPNs_Overall_4&pageid=74_en_ppc&type=ppc&pos=4" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'VyprVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">5</div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                    <div class="vwajxwuuagjfctd eqyihgawzlfudjk">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=NDQyfA%3D%3D&vid=442&target=ppcVendorRow_442_Best_VPNs_Overall_4&pageid=74_en_ppc&type=ppc&pos=4" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'VyprVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">5</div>
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2020/01/VyperVPN-Hor.svg" alt="VyprVPN" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <strong>Keeps you safe and secure on public Wi-Fi</strong>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Over 700 servers worldwide                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Unlimited bandwidth and data transfer                            
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">Over 700 servers worldwide</li>
-                                    <li class="featured__item">Unlimited bandwidth and data transfer</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">Over 700 servers worldwide</li>
+                                    <li class="igudyejidlo">Unlimited bandwidth and data transfer</li>
                                 </ul>
                             </div>
-                            <div class="available"></div>
+                            <div class="usxrtjwwoqlxx"></div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection other">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk kcjpzggrlv">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut other">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="87 13" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">8.7                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj kcjpzggrlv">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="87 13" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">8.7                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark">Good!</div>
+                                    <div class="zxpgzqrcrptxri">Good!</div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=NDQyfA%3D%3D&vid=442&target=ppcCTAButton_442_Best_VPNs_Overall_4&pageid=74_en_ppc&type=ppc&pos=4" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'VyprVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=NDQyfA%3D%3D&vid=442&target=ppcVendorURL_442_Best_VPNs_Overall_4&pageid=74_en_ppc&type=ppc&pos=4" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'VyprVPN')" rel="nofollow noopener noreferrer" target="_blank">vyprvpn.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=NDQyfA%3D%3D&vid=442&target=ppcCTAButton_442_Best_VPNs_Overall_4&pageid=74_en_ppc&type=ppc&pos=4" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'VyprVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=NDQyfA%3D%3D&vid=442&target=ppcVendorURL_442_Best_VPNs_Overall_4&pageid=74_en_ppc&type=ppc&pos=4" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'VyprVPN')" rel="nofollow noopener noreferrer" target="_blank">vyprvpn.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="vendor vendor-6">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=MTI0M3w%3D&vid=1243&target=ppcVendorRow_1243_Best_VPNs_Overall_5&pageid=74_en_ppc&type=ppc&pos=5" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'IPVanish VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">6</div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                    <div class="vwajxwuuagjfctd swguxfqhrliwkgw">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=MTI0M3w%3D&vid=1243&target=ppcVendorRow_1243_Best_VPNs_Overall_5&pageid=74_en_ppc&type=ppc&pos=5" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'IPVanish VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">6</div>
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2019/05/Ip-Vanish-Hor.svg" alt="IPVanish VPN" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <strong>Enjoy impressive speeds and unlimited bandwidth on as many as 10 devices</strong>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Variety of security protocols to choose from                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Install the app in under a minute                            
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">Variety of security protocols to choose from</li>
-                                    <li class="featured__item">Install the app in under a minute</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">Variety of security protocols to choose from</li>
+                                    <li class="igudyejidlo">Install the app in under a minute</li>
                                 </ul>
                             </div>
-                            <div class="available"></div>
+                            <div class="usxrtjwwoqlxx"></div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection other">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk kcjpzggrlv">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut other">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="85 15" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">8.5                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj kcjpzggrlv">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="85 15" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">8.5                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark"></div>
+                                    <div class="zxpgzqrcrptxri"></div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTI0M3w%3D&vid=1243&target=ppcCTAButton_1243_Best_VPNs_Overall_5&pageid=74_en_ppc&type=ppc&pos=5" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'IPVanish VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=MTI0M3w%3D&vid=1243&target=ppcVendorURL_1243_Best_VPNs_Overall_5&pageid=74_en_ppc&type=ppc&pos=5" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'IPVanish VPN')" rel="nofollow noopener noreferrer" target="_blank">ipvanish.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTI0M3w%3D&vid=1243&target=ppcCTAButton_1243_Best_VPNs_Overall_5&pageid=74_en_ppc&type=ppc&pos=5" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'IPVanish VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=MTI0M3w%3D&vid=1243&target=ppcVendorURL_1243_Best_VPNs_Overall_5&pageid=74_en_ppc&type=ppc&pos=5" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'IPVanish VPN')" rel="nofollow noopener noreferrer" target="_blank">ipvanish.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="vendor vendor-7">
-                        <a class="overlay-link" data-qa-id="vendor_link" href="https://www.vpn-mentors.com/?Track_link=NDYzfA%3D%3D&vid=463&target=ppcVendorRow_463_Best_VPNs_Overall_6&pageid=74_en_ppc&type=ppc&pos=6" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'HMA VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
-                        <div class="vendor__position">7</div>
-                        <div class="vendor__logoSection">
-                            <div class="vendor__logoSection-logo">
+                    <div class="vwajxwuuagjfctd xsrksxukvtr">
+                        <a class="qwsrlorouwgarix" data-qa-id="wipkltcwfvw" href="https://www.vpn-mentors.com/?Track_link=NDYzfA%3D%3D&vid=463&target=ppcVendorRow_463_Best_VPNs_Overall_6&pageid=74_en_ppc&type=ppc&pos=6" onclick="clickedLinkExternal('Best VPNs Overall - Vendor Row', 'HMA VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                    </a>
+                        <div class="ptgvjhyxspqioa">7</div>
+                        <div class="frakjzzzpi">
+                            <div class="egoprpraww">
                                 <img loading="lazy" src="wp-content/uploads/2019/07/HMA-VPN-Hor.svg" alt="HMA VPN" width="640" height="140">
                             </div>
-                            <div class="vendor__logoSection-description">
+                            <div class="zlgiuxgidtip">
                                 <strong>Keep your online activity secure and private, even on public Wi-Fi.</strong>
                             </div>
-                            <div class="vendor__logoSection-listing">
+                            <div class="yjoikzakjklhhiu">
                                 <ul>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Over 1100 servers worldwide                            
                                     </li>
-                                    <li class="listing__item">
-                                        <i class="listing__item-icon fa fa-check"></i>
+                                    <li class="lrrywihzfj">
+                                        <i class="jjxxhuyxdi fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                         Unlimited bandwidth and data transfer                            
                                     </li>
                                 </ul>
                             </div>
                         </div>
-                        <div class="vendor__featured">
-                            <div class="featured">
-                                <ul class="featured__list featured__list_desktop">
-                                    <li class="featured__item">Over 1100 servers worldwide</li>
-                                    <li class="featured__item">Unlimited bandwidth and data transfer</li>
+                        <div class="vasxxhqrjlgp">
+                            <div class="qzfdktpczy">
+                                <ul class="swsxlhivwijsuyd oocdpiaaxwdvrso">
+                                    <li class="igudyejidlo">Over 1100 servers worldwide</li>
+                                    <li class="igudyejidlo">Unlimited bandwidth and data transfer</li>
                                 </ul>
                             </div>
-                            <div class="available"></div>
+                            <div class="usxrtjwwoqlxx"></div>
                         </div>
-                        <div class="vendor__score-btn">
-                            <div class="vendor__scoreSection other">
+                        <div class="yhujlrgfayvwv">
+                            <div class="eiwqvzeefgk kcjpzggrlv">
                                 <div>
-                                    <svg width="91" height="91" viewBox="0 0 42 42" class="donut other">
-                                        <circle class="donut-hole" cx="21" cy="21" r="20" fill="transparent"></circle>
-                                        <circle class="donut-ring" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
-                                        <circle class="donut-segment" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="83 17" stroke-dashoffset="0"></circle>
-                                        <g class="chart-text">
-                                            <text x="23%" y="65%" class="progress-value">8.3                            </text>
+                                    <svg width="91" height="91" viewBox="0 0 42 42" class="tvvidjzdskaj kcjpzggrlv">
+                                        <circle class="oytisxrvhartw" cx="21" cy="21" r="20" fill="transparent"></circle>
+                                        <circle class="vvkjelejeqdislk" cx="21" cy="21" r="20" fill="transparent" stroke="#37474f33" stroke-width="2"></circle>
+                                        <circle class="txkiireaeiqz" cx="21" cy="21" r="20" fill="transparent" stroke-width="2" stroke-linecap="round" stroke-dasharray="83 17" stroke-dashoffset="0"></circle>
+                                        <g class="iolvwkvqoffocf">
+                                            <text x="23%" y="65%" class="lviuhoridhlco">8.3                            </text>
                                         </g>
                                     </svg>
-                                    <div class="vendor__mark"></div>
+                                    <div class="zxpgzqrcrptxri"></div>
                                 </div>
                             </div>
-                            <div class="vendor__btn">
-                                <div class="vendor__btn-area">
-                                    <a class="button" href="https://www.vpn-mentors.com/?Track_link=NDYzfA%3D%3D&vid=463&target=ppcCTAButton_463_Best_VPNs_Overall_6&pageid=74_en_ppc&type=ppc&pos=6" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'HMA VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
-                                    <a class="vendor__btn-site-link" href="https://www.vpn-mentors.com/?Track_link=NDYzfA%3D%3D&vid=463&target=ppcVendorURL_463_Best_VPNs_Overall_6&pageid=74_en_ppc&type=ppc&pos=6" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'HMA VPN')" rel="nofollow noopener noreferrer" target="_blank">hidemyass.com                        </a>
+                            <div class="vditofwziwoo">
+                                <div class="vkywthcwaj">
+                                    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=NDYzfA%3D%3D&vid=463&target=ppcCTAButton_463_Best_VPNs_Overall_6&pageid=74_en_ppc&type=ppc&pos=6" onclick="clickedLinkExternal('Best VPNs Overall - Visit website', 'HMA VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website                        </a>
+                                    <a class="psouxettwl" href="https://www.vpn-mentors.com/?Track_link=NDYzfA%3D%3D&vid=463&target=ppcVendorURL_463_Best_VPNs_Overall_6&pageid=74_en_ppc&type=ppc&pos=6" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'HMA VPN')" rel="nofollow noopener noreferrer" target="_blank">hidemyass.com                        </a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="vpn-rate" class="rate">
-                <div class="container">
-                    <div class="rate__content-wrapper">
-                        <h3 class="section-title rate__title">How We Rate Our VPNs            </h3>
-                        <div class="rate__content">
-                            <ul class="rate__list">
-                                <li class="rate__item">
-                                    <span class="fa fa-features"></span>
-                                    <span class="rate__item-label">Features</span>
+            <div id="kdqwfcvjxry" class="rate">
+                <div class="hpdlsfcgev">
+                    <div class="frgivplefwi">
+                        <h3 class="udgqdzkpodt zjieyckkigkc">How We Rate Our VPNs            </h3>
+                        <div class="aplhfqsyydd">
+                            <ul class="flrghdzoqfv">
+                                <li class="igjjwkqchraq">
+                                    <span class="fagswpdrqrifrtv pieuwoohelyooeq"></span>
+                                    <span class="dwwiszikqlqayck">Features</span>
                                 </li>
-                                <li class="rate__item">
-                                    <span class="fa fa-ease"></span>
-                                    <span class="rate__item-label">Ease of Use</span>
+                                <li class="igjjwkqchraq">
+                                    <span class="fagswpdrqrifrtv ljtgpjucai"></span>
+                                    <span class="dwwiszikqlqayck">Ease of Use</span>
                                 </li>
-                                <li class="rate__item">
-                                    <span class="fa fa-pricing"></span>
-                                    <span class="rate__item-label">Pricing</span>
+                                <li class="igjjwkqchraq">
+                                    <span class="fagswpdrqrifrtv pfsjrvejpcapgy"></span>
+                                    <span class="dwwiszikqlqayck">Pricing</span>
                                 </li>
-                                <li class="rate__item">
-                                    <span class="fa fa-support"></span>
-                                    <span class="rate__item-label">Support</span>
+                                <li class="igjjwkqchraq">
+                                    <span class="fagswpdrqrifrtv kruxqioivdhji"></span>
+                                    <span class="dwwiszikqlqayck">Support</span>
                                 </li>
-                                <li class="rate__item">
-                                    <span class="fa fa-star"></span>
-                                    <span class="rate__item-label">User Score</span>
+                                <li class="igjjwkqchraq">
+                                    <span class="fagswpdrqrifrtv xkyarcosfuhyupj"></span>
+                                    <span class="dwwiszikqlqayck">User Score</span>
                                 </li>
                             </ul>
-                            <div class="rate__text">
+                            <div class="iaefpizpfsefa">
                                 <p>
                                 <p>To figure out which VPNs are worth your money, we looked at what each VPN offers, starting with features.</p>
                                 <p>When using a VPN, your priority should be security. That's why we chose VPNs that have military-grade encryption, a range of protocols (OpenVPN, L2TP, IKEv2, and more), DNS leak protection, and a kill-switch. We also looked at the number of servers and locations, and we tested each VPN for speed.</p>
                                 <p>We then tested each VPN's ease-of-use, from downloading and installing the software to connecting to the right server. Customer support is also a crucial aspect, so we examined each VPN's availability, what forms of contact are available, and how efficient their support team is. We compared all of that to the price to see if it was worthwhile or not. Last but not least, we analyzed our users' reviews, both the positive and the negative.</p>
 </p></div></div></div></div></div>
-<div id="vpn-category" class="hidden-xs">
-    <div class="container">
-        <div class="category__content-wrapper">
-            <h3 class="section-title">The Best VPNs Per Category            </h3>
-            <div class="category__list">
-                <div class="category__item">
-                    <div class="category__item-top-badge">
-                        <i class="fa fa-star"></i>
+<div id="jicihrkzkia" class="gpplvsrlgfzksf">
+    <div class="hpdlsfcgev">
+        <div class="sxgollkdudgx">
+            <h3 class="udgqdzkpodt">The Best VPNs Per Category            </h3>
+            <div class="srovxjvcikdap">
+                <div class="cfgvoelgka">
+                    <div class="hfhpicjytqk">
+                        <i class="fagswpdrqrifrtv xkyarcosfuhyupj"></i>
                     </div>
-                    <div class="category__item-logo-wrapper">
-                        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategory_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                        <img class="img-responsive center-block" loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
+                    <div class="kkgvudhppr">
+                        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategory_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                        <img class="vvdrpyleqgsyak yrsuaajviizcek" loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
                         <noscript>
-                            <img class="img-responsive center-block" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
+                            <img class="vvdrpyleqgsyak yrsuaajviizcek" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
                         </noscript>
                     </div>
-                    <div class="category__item-features">
-                        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategoryBadges_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                        <div class="category__item-features">
-                            <div class="category__item-feature">
-                                <span class="category__item-feature-label">
-                                    <i class="fa fa-lock"></i>
+                    <div class="koogfsiiuqdgqp">
+                        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategoryBadges_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                        <div class="koogfsiiuqdgqp">
+                            <div class="vdaruuiohswt">
+                                <span class="fjgpsuvkauu">
+                                    <i class="fagswpdrqrifrtv fwstyeyewttq"></i>
                                 </span>
-                                <i class="category__item-feature-check fa fa-check"></i>
+                                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                 Privacy
                             </div>
-                            <div class="category__item-feature">
-                                <span class="category__item-feature-label">
-                                    <i class="fa fa-speed"></i>
+                            <div class="vdaruuiohswt">
+                                <span class="fjgpsuvkauu">
+                                    <i class="fagswpdrqrifrtv owtejeothhef"></i>
                                 </span>
-                                <i class="category__item-feature-check fa fa-check"></i>
+                                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                 Speed
                             </div>
                         </div>
                     </div>
-                    <div class="category__item-cta-wrapper">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategoryVisitWebsite_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_visit_website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+                    <div class="ywlxwwvhki">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategoryVisitWebsite_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_visit_website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
                     </div>
                 </div>
-                <div class="category__item">
-                    <div class="category__item-logo-wrapper">
-                        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategory_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                        <img class="img-responsive center-block" loading="lazy" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
+                <div class="cfgvoelgka">
+                    <div class="kkgvudhppr">
+                        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategory_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                        <img class="vvdrpyleqgsyak yrsuaajviizcek" loading="lazy" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
                         <noscript>
-                            <img class="img-responsive center-block" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
+                            <img class="vvdrpyleqgsyak yrsuaajviizcek" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
                         </noscript>
                     </div>
-                    <div class="category__item-features">
-                        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategoryBadges_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                        <div class="category__item-features">
-                            <div class="category__item-feature">
-                                <span class="category__item-feature-label">
-                                    <i class="fa fa-shield"></i>
+                    <div class="koogfsiiuqdgqp">
+                        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategoryBadges_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                        <div class="koogfsiiuqdgqp">
+                            <div class="vdaruuiohswt">
+                                <span class="fjgpsuvkauu">
+                                    <i class="fagswpdrqrifrtv pgkdcwgtlvvy"></i>
                                 </span>
-                                <i class="category__item-feature-check fa fa-check"></i>
+                                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                 Security
                             </div>
                         </div>
                     </div>
-                    <div class="category__item-cta-wrapper">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategoryVisitWebsite_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_visit_website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+                    <div class="ywlxwwvhki">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategoryVisitWebsite_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_visit_website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
                     </div>
                 </div>
-                <div class="category__item">
-                    <div class="category__item-logo-wrapper">
-                        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategory_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                        <img class="img-responsive center-block" loading="lazy" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
+                <div class="cfgvoelgka">
+                    <div class="kkgvudhppr">
+                        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategory_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                        <img class="vvdrpyleqgsyak yrsuaajviizcek" loading="lazy" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
                         <noscript>
-                            <img class="img-responsive center-block" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
+                            <img class="vvdrpyleqgsyak yrsuaajviizcek" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
                         </noscript>
                     </div>
-                    <div class="category__item-features">
-                        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategoryBadges_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                        <div class="category__item-features">
-                            <div class="category__item-feature">
-                                <span class="category__item-feature-label">
-                                    <i class="fa fa-thumbs-up"></i>
+                    <div class="koogfsiiuqdgqp">
+                        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategoryBadges_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                        <div class="koogfsiiuqdgqp">
+                            <div class="vdaruuiohswt">
+                                <span class="fjgpsuvkauu">
+                                    <i class="fagswpdrqrifrtv isqwhswzxdpgiw"></i>
                                 </span>
-                                <i class="category__item-feature-check fa fa-check"></i>
+                                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                                 Newbies
                             </div>
                         </div>
                     </div>
-                    <div class="category__item-cta-wrapper">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategoryVisitWebsite_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_visit_website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+                    <div class="ywlxwwvhki">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategoryVisitWebsite_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_visit_website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div id="top-three">
-    <div class="container">
-        <div class="top-three__content-wrapper">
-            <h3 class="section-title top-three__title">Compare Our Top 3 VPNs            </h3>
-            <div class="top-three__tabs">
-                <div class="top-three__tab  js-active">
-                    <a class="top-three__tab-a" href="#tab_expressvpn">
-                        <img loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Monogram_Logo_Red-1.svg" alt="ExpressVPN" class="img-responsive center-block" width="40" height="40">
+<div id="zktwgutwiiyfgpq">
+    <div class="hpdlsfcgev">
+        <div class="tcrqrgctjjtp">
+            <h3 class="udgqdzkpodt gjvvditaolpqywt">Compare Our Top 3 VPNs            </h3>
+            <div class="avtvdqcajkg">
+                <div class="iivyygivppuvx  hegsxztwqdaojv">
+                    <a class="vequeslopqzopzi" href="#kiixyzxeagcxe">
+                        <img loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Monogram_Logo_Red-1.svg" alt="ExpressVPN" class="vvdrpyleqgsyak yrsuaajviizcek" width="40" height="40">
                     </a>
                 </div>
-                <div class="top-three__tab  ">
-                    <a class="top-three__tab-a" href="#tab_cyberghostvpn">
-                        <img loading="lazy" src="wp-content/uploads/2019/05/VM-_CyberGhost.svg" alt="CyberGhost VPN" class="img-responsive center-block" width="40" height="40">
+                <div class="iivyygivppuvx  ">
+                    <a class="vequeslopqzopzi" href="#wfvdqkgpqwr">
+                        <img loading="lazy" src="wp-content/uploads/2019/05/VM-_CyberGhost.svg" alt="CyberGhost VPN" class="vvdrpyleqgsyak yrsuaajviizcek" width="40" height="40">
                     </a>
                 </div>
-                <div class="top-three__tab  ">
-                    <a class="top-three__tab-a" href="#tab_privateinternetaccess">
-                        <img loading="lazy" src="wp-content/uploads/2019/05/VM-_PIA.svg" alt="Private Internet Access" class="img-responsive center-block" width="40" height="40">
+                <div class="iivyygivppuvx  ">
+                    <a class="vequeslopqzopzi" href="#qfkxezeufdhiy">
+                        <img loading="lazy" src="wp-content/uploads/2019/05/VM-_PIA.svg" alt="Private Internet Access" class="vvdrpyleqgsyak yrsuaajviizcek" width="40" height="40">
                     </a>
                 </div>
             </div>
-            <div class="top-three__list">
-                <div class="top-three__item js-active" id="tab_expressvpn">
-                    <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCompareTopThree_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - compare_top_three', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-                    <div class="category__item-top-badge">
-                        <i class="fa fa-star"></i>
+            <div class="htrartcqzs">
+                <div class="ciiydwriuroq hegsxztwqdaojv" id="kiixyzxeagcxe">
+                    <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCompareTopThree_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - compare_top_three', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+                    <div class="hfhpicjytqk">
+                        <i class="fagswpdrqrifrtv xkyarcosfuhyupj"></i>
                     </div>
-                    <div class="top-three__item-desc-wrap">
-                        <div class="top-three__item-logo">
-                            <img class="img-responsive" loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
+                    <div class="kllzosgjkulfgxq">
+                        <div class="xtulksglrrwsji">
+                            <img class="vvdrpyleqgsyak" loading="lazy" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
                             <noscript>
-                                <img class="img-responsive" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
+                                <img class="vvdrpyleqgsyak" src="wp-content/uploads/2019/06/ExpressVPN_Horizontal_Logo_Red-svg.svg" alt="Vendor Logo of ExpressVPN"/>
                             </noscript>
                         </div>
                         <p>
                             ExpressVPN, which is currently offering a <b>30-day free trial</b>
                             , is the ultimate choice for high-speed browsing. With its military-grade encryption, you can rest assured that your internet activity will always remain private.
                         </p>
-                        <div class="top-three__item-desc-notice">70% of our users choose ExpressVPN                                </div>
+                        <div class="eafakcrxaacjlf">70% of our users choose ExpressVPN                                </div>
                     </div>
-                    <h3 class="top-three__item-subtitle">ExpressVPN</h3>
-                    <div class="top-three__item-features">
-                        <div class="top-three__item-feature">
-                            <span class="top-three__item-feature-label">
-                                <i class="fa fa-dollar-sign"></i>
+                    <h3 class="kaxapigyrrlxu">ExpressVPN</h3>
+                    <div class="ssjluvkaclued">
+                        <div class="saukhdjlco">
+                            <span class="flodllziljsk">
+                                <i class="fagswpdrqrifrtv hstuiehssvwzez"></i>
                                 <small>Money Back Guarantee</small>
                             </span>
-                            <span class="top-three__item-feature-value">30 days</span>
+                            <span class="ejsvjpgujqc">30 days</span>
                         </div>
-                        <div class="top-three__item-feature">
-                            <span class="top-three__item-feature-label">
-                                <i class="fa fa-servers"></i>
+                        <div class="saukhdjlco">
+                            <span class="flodllziljsk">
+                                <i class="fagswpdrqrifrtv powohzsjethhio"></i>
                                 <small>Servers/
-</br>Countries</small></span><span class="top-three__item-feature-value">3000 Servers in 90 countries</span>
+</br>Countries</small></span><span class="ejsvjpgujqc">3000 Servers in 90 countries</span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-switch"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv jcxvegalse"></i>
         <small>Kill switch</small>
     </span>
-    <span class="top-three__item-feature-value">Yes
+    <span class="ejsvjpgujqc">Yes
                                 </span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-devices"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv cvczojwdohx"></i>
         <small>Devices/
-</br>license</small></span><span class="top-three__item-feature-value">5</span>
+</br>license</small></span><span class="ejsvjpgujqc">5</span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-mobile"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv yvllijzowqc"></i>
         <small>Mobile</small>
     </span>
-    <span class="top-three__item-feature-value">iOS, Android                                </span>
+    <span class="ejsvjpgujqc">iOS, Android                                </span>
 </div>
-<div class="top-three__item-features-cta-wrap">
-    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCompareVisitWebsite_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+<div class="kuffivectvctaes">
+    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCompareVisitWebsite_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
 </div>
 </div>
-<div class="top-three__item-best-for">
-    <h3 class="top-three__item-subtitle">Best VPN for</h3>
-    <div class="category__item-features">
-        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategoryBadges_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-        <div class="category__item-features">
-            <div class="category__item-feature">
-                <span class="category__item-feature-label">
-                    <i class="fa fa-lock"></i>
+<div class="zpdvufzswttjw">
+    <h3 class="kaxapigyrrlxu">Best VPN for</h3>
+    <div class="koogfsiiuqdgqp">
+        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcBestVpnsbyCategoryBadges_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+        <div class="koogfsiiuqdgqp">
+            <div class="vdaruuiohswt">
+                <span class="fjgpsuvkauu">
+                    <i class="fagswpdrqrifrtv fwstyeyewttq"></i>
                 </span>
-                <i class="category__item-feature-check fa fa-check"></i>
+                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                 Privacy
             </div>
-            <div class="category__item-feature">
-                <span class="category__item-feature-label">
-                    <i class="fa fa-speed"></i>
+            <div class="vdaruuiohswt">
+                <span class="fjgpsuvkauu">
+                    <i class="fagswpdrqrifrtv owtejeothhef"></i>
                 </span>
-                <i class="category__item-feature-check fa fa-check"></i>
+                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                 Speed
             </div>
         </div>
     </div>
 </div>
-<div class="top-three__item-price-wrap">
-    <h3 class="top-three__item-subtitle">Starting Price</h3>
-    <p class="top-three__item-price">$6.67                            </p>
-    <small class="top-three__item-price-range">per month</small>
+<div class="waqurrdokkz">
+    <h3 class="kaxapigyrrlxu">Starting Price</h3>
+    <p class="uhdjcjfrtcqpoeu">$6.67                            </p>
+    <small class="lsjlfyjqfvaes">per month</small>
 </div>
-<div class="top-three__item-cta-wrap">
-    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCompareVisitWebsite_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
-    <a class="top-three__item-cta-site-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcVendorURL_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">expressvpn.com                            </a>
+<div class="wsqxtprfaguxcfq">
+    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcCompareVisitWebsite_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+    <a class="tjjxtrhpvc" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcVendorURL_1460_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'ExpressVPN')" rel="nofollow noopener noreferrer" target="_blank">expressvpn.com                            </a>
 </div>
 </div>
-<div class="top-three__item " id="tab_cyberghostvpn">
-    <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCompareTopThree_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - compare_top_three', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-    <div class="top-three__item-desc-wrap">
-        <div class="top-three__item-logo">
-            <img class="img-responsive" loading="lazy" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
+<div class="ciiydwriuroq " id="wfvdqkgpqwr">
+    <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCompareTopThree_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - compare_top_three', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+    <div class="kllzosgjkulfgxq">
+        <div class="xtulksglrrwsji">
+            <img class="vvdrpyleqgsyak" loading="lazy" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
             <noscript>
-                <img class="img-responsive" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
+                <img class="vvdrpyleqgsyak" src="wp-content/uploads/2019/05/CyberGhost-VPN-Hor.svg" alt="Vendor Logo of CyberGhost VPN"/>
             </noscript>
         </div>
         <p>Thanks to a brilliant interface and lots of handy features, this VPN will make even the pickiest users happy. For desktop or mobile, Windows, Mac, or Linux, if you want to securely enjoy private browsing, CyberGhost is consistently impressive.</p>
     </div>
-    <h3 class="top-three__item-subtitle">CyberGhost VPN</h3>
-    <div class="top-three__item-features">
-        <div class="top-three__item-feature">
-            <span class="top-three__item-feature-label">
-                <i class="fa fa-dollar-sign"></i>
+    <h3 class="kaxapigyrrlxu">CyberGhost VPN</h3>
+    <div class="ssjluvkaclued">
+        <div class="saukhdjlco">
+            <span class="flodllziljsk">
+                <i class="fagswpdrqrifrtv hstuiehssvwzez"></i>
                 <small>Money Back Guarantee</small>
             </span>
-            <span class="top-three__item-feature-value">45 days</span>
+            <span class="ejsvjpgujqc">45 days</span>
         </div>
-        <div class="top-three__item-feature">
-            <span class="top-three__item-feature-label">
-                <i class="fa fa-servers"></i>
+        <div class="saukhdjlco">
+            <span class="flodllziljsk">
+                <i class="fagswpdrqrifrtv powohzsjethhio"></i>
                 <small>Servers/
-</br>Countries</small></span><span class="top-three__item-feature-value">7580 Servers in 90 countries</span>
+</br>Countries</small></span><span class="ejsvjpgujqc">7580 Servers in 90 countries</span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-switch"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv jcxvegalse"></i>
         <small>Kill switch</small>
     </span>
-    <span class="top-three__item-feature-value">Yes
+    <span class="ejsvjpgujqc">Yes
                                 </span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-devices"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv cvczojwdohx"></i>
         <small>Devices/
-</br>license</small></span><span class="top-three__item-feature-value">7</span>
+</br>license</small></span><span class="ejsvjpgujqc">7</span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-mobile"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv yvllijzowqc"></i>
         <small>Mobile</small>
     </span>
-    <span class="top-three__item-feature-value">iOS, Android                                </span>
+    <span class="ejsvjpgujqc">iOS, Android                                </span>
 </div>
-<div class="top-three__item-features-cta-wrap">
-    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCompareVisitWebsite_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+<div class="kuffivectvctaes">
+    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCompareVisitWebsite_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
 </div>
 </div>
-<div class="top-three__item-best-for">
-    <h3 class="top-three__item-subtitle">Best VPN for</h3>
-    <div class="category__item-features">
-        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategoryBadges_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
-        <div class="category__item-features">
-            <div class="category__item-feature">
-                <span class="category__item-feature-label">
-                    <i class="fa fa-shield"></i>
+<div class="zpdvufzswttjw">
+    <h3 class="kaxapigyrrlxu">Best VPN for</h3>
+    <div class="koogfsiiuqdgqp">
+        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcBestVpnsbyCategoryBadges_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank"></a>
+        <div class="koogfsiiuqdgqp">
+            <div class="vdaruuiohswt">
+                <span class="fjgpsuvkauu">
+                    <i class="fagswpdrqrifrtv pgkdcwgtlvvy"></i>
                 </span>
-                <i class="category__item-feature-check fa fa-check"></i>
+                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                 Security
             </div>
         </div>
     </div>
 </div>
-<div class="top-three__item-price-wrap">
-    <h3 class="top-three__item-subtitle">Starting Price</h3>
-    <p class="top-three__item-price">$2.15                            </p>
-    <small class="top-three__item-price-range">per month</small>
+<div class="waqurrdokkz">
+    <h3 class="kaxapigyrrlxu">Starting Price</h3>
+    <p class="uhdjcjfrtcqpoeu">$2.15                            </p>
+    <small class="lsjlfyjqfvaes">per month</small>
 </div>
-<div class="top-three__item-cta-wrap">
-    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCompareVisitWebsite_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
-    <a class="top-three__item-cta-site-link" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcVendorURL_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">cyberghostvpn.com                            </a>
+<div class="wsqxtprfaguxcfq">
+    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcCompareVisitWebsite_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+    <a class="tjjxtrhpvc" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcVendorURL_1615_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'CyberGhost VPN')" rel="nofollow noopener noreferrer" target="_blank">cyberghostvpn.com                            </a>
 </div>
 </div>
-<div class="top-three__item " id="tab_privateinternetaccess">
-    <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCompareTopThree_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - compare_top_three', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
-    <div class="top-three__item-desc-wrap">
-        <div class="top-three__item-logo">
-            <img class="img-responsive" loading="lazy" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
+<div class="ciiydwriuroq " id="qfkxezeufdhiy">
+    <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCompareTopThree_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - compare_top_three', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
+    <div class="kllzosgjkulfgxq">
+        <div class="xtulksglrrwsji">
+            <img class="vvdrpyleqgsyak" loading="lazy" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
             <noscript>
-                <img class="img-responsive" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
+                <img class="vvdrpyleqgsyak" src="wp-content/uploads/2019/05/PIA-Hor.svg" alt="Vendor Logo of Private Internet Access"/>
             </noscript>
         </div>
         <p>Instant setup, unlimited bandwidth, and an affordable price that's backed by a 30-day money-back guarantee. Includes Wi-Fi security and a built-in adblocker.</p>
     </div>
-    <h3 class="top-three__item-subtitle">Private Internet Access</h3>
-    <div class="top-three__item-features">
-        <div class="top-three__item-feature">
-            <span class="top-three__item-feature-label">
-                <i class="fa fa-dollar-sign"></i>
+    <h3 class="kaxapigyrrlxu">Private Internet Access</h3>
+    <div class="ssjluvkaclued">
+        <div class="saukhdjlco">
+            <span class="flodllziljsk">
+                <i class="fagswpdrqrifrtv hstuiehssvwzez"></i>
                 <small>Money Back Guarantee</small>
             </span>
-            <span class="top-three__item-feature-value">30 days</span>
+            <span class="ejsvjpgujqc">30 days</span>
         </div>
-        <div class="top-three__item-feature">
-            <span class="top-three__item-feature-label">
-                <i class="fa fa-servers"></i>
+        <div class="saukhdjlco">
+            <span class="flodllziljsk">
+                <i class="fagswpdrqrifrtv powohzsjethhio"></i>
                 <small>Servers/
-</br>Countries</small></span><span class="top-three__item-feature-value">29650 Servers in 70 countries</span>
+</br>Countries</small></span><span class="ejsvjpgujqc">29650 Servers in 70 countries</span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-switch"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv jcxvegalse"></i>
         <small>Kill switch</small>
     </span>
-    <span class="top-three__item-feature-value">Yes
+    <span class="ejsvjpgujqc">Yes
                                 </span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-devices"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv cvczojwdohx"></i>
         <small>Devices/
-</br>license</small></span><span class="top-three__item-feature-value">10</span>
+</br>license</small></span><span class="ejsvjpgujqc">10</span>
 </div>
-<div class="top-three__item-feature">
-    <span class="top-three__item-feature-label">
-        <i class="fa fa-mobile"></i>
+<div class="saukhdjlco">
+    <span class="flodllziljsk">
+        <i class="fagswpdrqrifrtv yvllijzowqc"></i>
         <small>Mobile</small>
     </span>
-    <span class="top-three__item-feature-value">iOS, Android                                </span>
+    <span class="ejsvjpgujqc">iOS, Android                                </span>
 </div>
-<div class="top-three__item-features-cta-wrap">
-    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCompareVisitWebsite_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+<div class="kuffivectvctaes">
+    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCompareVisitWebsite_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
 </div>
 </div>
-<div class="top-three__item-best-for">
-    <h3 class="top-three__item-subtitle">Best VPN for</h3>
-    <div class="category__item-features">
-        <a aria-label="overlay-link" class="overlay-link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategoryBadges_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
-        <div class="category__item-features">
-            <div class="category__item-feature">
-                <span class="category__item-feature-label">
-                    <i class="fa fa-thumbs-up"></i>
+<div class="zpdvufzswttjw">
+    <h3 class="kaxapigyrrlxu">Best VPN for</h3>
+    <div class="koogfsiiuqdgqp">
+        <a aria-label="overlay-link" class="qwsrlorouwgarix" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcBestVpnsbyCategoryBadges_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - best_vpns_by_category_badges', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank"></a>
+        <div class="koogfsiiuqdgqp">
+            <div class="vdaruuiohswt">
+                <span class="fjgpsuvkauu">
+                    <i class="fagswpdrqrifrtv isqwhswzxdpgiw"></i>
                 </span>
-                <i class="category__item-feature-check fa fa-check"></i>
+                <i class="oasudujxoyspwcq fagswpdrqrifrtv hhyjxphxyeukud"></i>
                 Newbies
             </div>
         </div>
     </div>
 </div>
-<div class="top-three__item-price-wrap">
-    <h3 class="top-three__item-subtitle">Starting Price</h3>
-    <p class="top-three__item-price">$2.03                            </p>
-    <small class="top-three__item-price-range">per month</small>
+<div class="waqurrdokkz">
+    <h3 class="kaxapigyrrlxu">Starting Price</h3>
+    <p class="uhdjcjfrtcqpoeu">$2.03                            </p>
+    <small class="lsjlfyjqfvaes">per month</small>
 </div>
-<div class="top-three__item-cta-wrap">
-    <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCompareVisitWebsite_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
-    <a class="top-three__item-cta-site-link" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcVendorURL_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">privateinternetaccess.com                            </a>
+<div class="wsqxtprfaguxcfq">
+    <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcCompareVisitWebsite_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - compare_visit_website', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">Visit website</a>
+    <a class="tjjxtrhpvc" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcVendorURL_1119_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - Vendor URL', 'Private Internet Access')" rel="nofollow noopener noreferrer" target="_blank">privateinternetaccess.com                            </a>
 </div>
 </div></div></div></div></div>
-<div id="testimonials" class="testimonials" data-qa-id="vpn_reviews">
-    <h3 class="section-title section-title--white testimonials__title">User Reviews    </h3>
-    <div class="slider">
-        <div class="slider-box testimonial__list">
-            <div class="slider-item testimonial__item                     ">
-                <div class="testimonial__vendor-logo-block">
-                    <img class="testimonial__vendor-logo" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/logo-pia.png" alt="" width="90" height="90"/>
+<div id="oggwypkwfkcgzh" class="hodgqjzixfxvd" data-qa-id="ihzrkopgdjrl">
+    <h3 class="udgqdzkpodt qrecgfqlkotrav hkxfzkyqpk">User Reviews    </h3>
+    <div class="kderroihawj">
+        <div class="pyvtezuxhqaghh yfvvpxpoxkl">
+            <div class="txrvcueqzgeyc qsjgpsdjuyfrva                     ">
+                <div class="iwavsozajkilwa">
+                    <img class="uplreohersq" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/logo-pia.png" alt="" width="90" height="90"/>
                     <noscript>
-                        <img class="testimonial__vendor-logo" src="wp-content/themes/vpnmentor/images/ppc2/logo-pia.png" alt="" width="90" height="90"/>
+                        <img class="uplreohersq" src="wp-content/themes/vpnmentor/images/ppc2/logo-pia.png" alt="" width="90" height="90"/>
                     </noscript>
                 </div>
-                <div class="testimonial__details">
-                    <h3 class="testimonial__vendor-title">Private Internet Access                        </h3>
-                    <ul class="rating__list">
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
+                <div class="qyaiqajqgvzagrj">
+                    <h3 class="fyzchcfzfjowe">Private Internet Access                        </h3>
+                    <ul class="dppkhgsveqs">
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
                     </ul>
-                    <p class="testimonial__review">I've used 5 different VPNs and all of them had drawbacks. I wanted something better, so now I use PIA.                        </p>
-                    <p class="testimonial__author">Jamal                        </p>
-                    <p class="testimonial__btn">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcTestimonialVisitWebsite_1119_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
+                    <p class="hejpsjeyxr">I've used 5 different VPNs and all of them had drawbacks. I wanted something better, so now I use PIA.                        </p>
+                    <p class="hsxtqklphdiuv">Jamal                        </p>
+                    <p class="hdrahhxdgyplq">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTExOXw%3D&vid=1119&target=ppcTestimonialVisitWebsite_1119_Best_VPNs_Overall_0&pageid=74_en_ppc&type=ppc&pos=0" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
                                    'Private Internet Access', this)" rel="nofollow noopener noreferrer" target="_blank">Visit website                            </a>
                     </p>
                 </div>
             </div>
-            <div class="slider-item testimonial__item js-active                    ">
-                <div class="testimonial__vendor-logo-block">
-                    <img class="testimonial__vendor-logo" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/ExpressVPN_Monogram_Logo_Red-2.svg" alt="" width="90" height="90"/>
+            <div class="txrvcueqzgeyc qsjgpsdjuyfrva hegsxztwqdaojv                    ">
+                <div class="iwavsozajkilwa">
+                    <img class="uplreohersq" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/ExpressVPN_Monogram_Logo_Red-2.svg" alt="" width="90" height="90"/>
                     <noscript>
-                        <img class="testimonial__vendor-logo" src="wp-content/themes/vpnmentor/images/ppc2/ExpressVPN_Monogram_Logo_Red-2.svg" alt="" width="90" height="90"/>
+                        <img class="uplreohersq" src="wp-content/themes/vpnmentor/images/ppc2/ExpressVPN_Monogram_Logo_Red-2.svg" alt="" width="90" height="90"/>
                     </noscript>
                 </div>
-                <div class="testimonial__details">
-                    <h3 class="testimonial__vendor-title">ExpressVPN                        </h3>
-                    <ul class="rating__list">
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star-half-o"></li>
+                <div class="qyaiqajqgvzagrj">
+                    <h3 class="fyzchcfzfjowe">ExpressVPN                        </h3>
+                    <ul class="dppkhgsveqs">
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv sjhtwakxvlv"></li>
                     </ul>
-                    <p class="testimonial__review">I use ExpressVPN on my mobile devices as well as my home computer. Using ExpressVPN gives me peace of mind.                        </p>
-                    <p class="testimonial__author">Tony                        </p>
-                    <p class="testimonial__btn">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcTestimonialVisitWebsite_1460_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
+                    <p class="hejpsjeyxr">I use ExpressVPN on my mobile devices as well as my home computer. Using ExpressVPN gives me peace of mind.                        </p>
+                    <p class="hsxtqklphdiuv">Tony                        </p>
+                    <p class="hdrahhxdgyplq">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ppcTestimonialVisitWebsite_1460_Best_VPNs_Overall_1&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1&pos=1" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
                                    'ExpressVPN', this)" rel="nofollow noopener noreferrer" target="_blank">Visit website                            </a>
                     </p>
                 </div>
             </div>
-            <div class="slider-item testimonial__item                     ">
-                <div class="testimonial__vendor-logo-block">
-                    <img class="testimonial__vendor-logo" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/logo-cyberghost.png" alt="" width="90" height="90"/>
+            <div class="txrvcueqzgeyc qsjgpsdjuyfrva                     ">
+                <div class="iwavsozajkilwa">
+                    <img class="uplreohersq" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/logo-cyberghost.png" alt="" width="90" height="90"/>
                     <noscript>
-                        <img class="testimonial__vendor-logo" src="wp-content/themes/vpnmentor/images/ppc2/logo-cyberghost.png" alt="" width="90" height="90"/>
+                        <img class="uplreohersq" src="wp-content/themes/vpnmentor/images/ppc2/logo-cyberghost.png" alt="" width="90" height="90"/>
                     </noscript>
                 </div>
-                <div class="testimonial__details">
-                    <h3 class="testimonial__vendor-title">CyberGhost VPN                        </h3>
-                    <ul class="rating__list">
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star-half-o"></li>
+                <div class="qyaiqajqgvzagrj">
+                    <h3 class="fyzchcfzfjowe">CyberGhost VPN                        </h3>
+                    <ul class="dppkhgsveqs">
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv sjhtwakxvlv"></li>
                     </ul>
-                    <p class="testimonial__review">Everything worked well. The installation was easy and the VPN was simple to use. It blocked some DNS leaks I wasn't even aware of.                        </p>
-                    <p class="testimonial__author">Danny                        </p>
-                    <p class="testimonial__btn">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcTestimonialVisitWebsite_1615_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
+                    <p class="hejpsjeyxr">Everything worked well. The installation was easy and the VPN was simple to use. It blocked some DNS leaks I wasn't even aware of.                        </p>
+                    <p class="hsxtqklphdiuv">Danny                        </p>
+                    <p class="hdrahhxdgyplq">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=MTYxNXw%3D&vid=1615&target=ppcTestimonialVisitWebsite_1615_Best_VPNs_Overall_2&pageid=74_en_ppc&type=ppc&pos=2" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
                                    'CyberGhost VPN', this)" rel="nofollow noopener noreferrer" target="_blank">Visit website                            </a>
                     </p>
                 </div>
             </div>
-            <div class="slider-item testimonial__item                     ">
-                <div class="testimonial__vendor-logo-block">
-                    <img class="testimonial__vendor-logo" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/logo-privatevpn.png" alt="" width="90" height="90"/>
+            <div class="txrvcueqzgeyc qsjgpsdjuyfrva                     ">
+                <div class="iwavsozajkilwa">
+                    <img class="uplreohersq" loading="lazy" src="wp-content/themes/vpnmentor/images/ppc2/logo-privatevpn.png" alt="" width="90" height="90"/>
                     <noscript>
-                        <img class="testimonial__vendor-logo" src="wp-content/themes/vpnmentor/images/ppc2/logo-privatevpn.png" alt="" width="90" height="90"/>
+                        <img class="uplreohersq" src="wp-content/themes/vpnmentor/images/ppc2/logo-privatevpn.png" alt="" width="90" height="90"/>
                     </noscript>
                 </div>
-                <div class="testimonial__details">
-                    <h3 class="testimonial__vendor-title">Private VPN                        </h3>
-                    <ul class="rating__list">
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star"></li>
-                        <li class="fa fa-star-half-o"></li>
+                <div class="qyaiqajqgvzagrj">
+                    <h3 class="fyzchcfzfjowe">Private VPN                        </h3>
+                    <ul class="dppkhgsveqs">
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv xkyarcosfuhyupj"></li>
+                        <li class="fagswpdrqrifrtv sjhtwakxvlv"></li>
                     </ul>
-                    <p class="testimonial__review">PrivateVPN is everything I want in a VPN: strong security and super fast                        </p>
-                    <p class="testimonial__author">Mark                        </p>
-                    <p class="testimonial__btn">
-                        <a class="button" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcTestimonialVisitWebsite_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
+                    <p class="hejpsjeyxr">PrivateVPN is everything I want in a VPN: strong security and super fast                        </p>
+                    <p class="hsxtqklphdiuv">Mark                        </p>
+                    <p class="hdrahhxdgyplq">
+                        <a class="xtkgadqcgwh" href="https://www.vpn-mentors.com/?Track_link=NDE1NjN8&vid=41563&target=ppcTestimonialVisitWebsite_41563_Best_VPNs_Overall_3&pageid=74_en_ppc&type=ppc&pos=3" onclick="clickedLinkExternal('Best VPNs Overall - testimonial_visit_website',
                                    'Private VPN', this)" rel="nofollow noopener noreferrer" target="_blank">Visit website                            </a>
                     </p>
                 </div>
             </div>
         </div>
     </div>
-    <div class="slider__controls">
-        <span class="slider__control-item"></span>
-        <span class="slider__control-item"></span>
-        <span class="slider__control-item"></span>
-        <span class="slider__control-item"></span>
+    <div class="yrzsqaerjth">
+        <span class="rjhiziourx"></span>
+        <span class="rjhiziourx"></span>
+        <span class="rjhiziourx"></span>
+        <span class="rjhiziourx"></span>
     </div>
-    <!--    <div id="slider-nav">-->
-    <!--        <span class="prev fa-chevron-left"></span>-->
-    <!--        <span class="next fa-chevron-right"></span>-->
+    <!--    <div id="sdhfoeuyij">-->
+    <!--        <span class="popegkwywadf vqsihvpycz"></span>-->
+    <!--        <span class="ywhkgfpxilppss zyxesrydvqlka"></span>-->
     <!--    </div>-->
 </div>
-<div id="faqs" class="faqs " data-qa-id="vpn_faqs">
-    <div class="container">
-        <h3 class="faqs__title">Frequently Asked Questions            </h3>
-        <div class="faqs__list accordion">
+<div id="euituyxooucuou" class="faqs " data-qa-id="dcqsykkvdryphdk">
+    <div class="hpdlsfcgev">
+        <h3 class="qocdzaqgvxz">Frequently Asked Questions            </h3>
+        <div class="fjuejjqkvtd glflldquctilh">
             <details class="faq" open>
-                <summary class="faq__title">Why do I need a VPN?                        </summary>
-                <div class="faq__text">
+                <summary class="ilkseqiulxtuqcv">Why do I need a VPN?                        </summary>
+                <div class="zxhovdfqtzxfgk">
                     The most important reasons to use a VPN are to secure your online activity.<br>
                     <br>When left unprotected, your private data, such as bank account information and credit card numbers, can fall into the wrong hands. A good VPN encrypts your data, so even if you connect to a public wi-fi network, your private data is guaranteed to be protected.                        
                 </div>
             </details>
             <details class="faq">
-                <summary class="faq__title">How can I get the best price for a VPN?                        </summary>
-                <div class="faq__text">
+                <summary class="ilkseqiulxtuqcv">How can I get the best price for a VPN?                        </summary>
+                <div class="zxhovdfqtzxfgk">
                     <p>The monthly price will usually vary based on the length of your subscription. If you purchase a 2-year plan, you will pay less per month than what you'd pay for a monthly plan.</p>
                     <p>Surprisingly, VPN companies sometimes hide their best deals deep in their website. Lucky for you, we’ve gone to the trouble to find these deals.</p>
                     <p>
@@ -3293,8 +3292,8 @@
                 </div>
             </details>
             <details class="faq">
-                <summary class="faq__title">How do I connect to a VPN?                        </summary>
-                <div class="faq__text">
+                <summary class="ilkseqiulxtuqcv">How do I connect to a VPN?                        </summary>
+                <div class="zxhovdfqtzxfgk">
                     <p>You can connect to most VPNs with just a few clicks of a mouse - it really is that simple. You’ll need to download and install the software, log in, choose a country to connect to, and you’re all set.</p>
                     <p>
                         <a href='https://www.vpn-mentors.com/best-free-vpn-trials/' onmousedown="clickedLinkInternal('Great VPNS FAQ - Content Link','GreatVPNS', event);" target='_blank'>Try it today</a>
@@ -3304,10 +3303,10 @@
                 </div>
             </details>
             <details class="faq">
-                <summary class="faq__title">Can I set up a VPN on my smartphone?                        </summary>
-                <div class="faq__text">
+                <summary class="ilkseqiulxtuqcv">Can I set up a VPN on my smartphone?                        </summary>
+                <div class="zxhovdfqtzxfgk">
                     <p>Of course!</p>
-                    <p>Most VPNs offer mobile apps for Android and iPhone. Install the app and safely browse from your phone or tablet on any Wi-Fi without worry. Some VPNs will let you connect multiple devices simultaneously, so you can connect your PC, laptop, phone, router, and other devices in your household, all for the price of a single account.</p>
+                    <p>Most VPNs offer mobile apps for Android and iPhone. Install the app and safely browse from your pegtkgwpjihcz or tablet on any Wi-Fi without worry. Some VPNs will let you connect multiple devices simultaneously, so you can connect your PC, laptop, phone, router, and kcjpzggrlv devices in your household, all for the price of a single account.</p>
                     <p>
                         Check out vpnMentor's <strong>top rated</strong>
                         <a href='https://www.vpn-mentors.com/best-vpn-for-android/' onmousedown="clickedLinkInternal('Great VPNS FAQ - Content Link','GreatVPNS', event);" target='_blank'>VPNs for Android</a>
@@ -3325,105 +3324,105 @@
 </script>
 </div>
 <footer>
-    <div class="container">
-        <div class="footer__content">
-            <div class="footer__about-company">
-                <a class="footer__logo" onmousedown="clickedLinkInternal('Footer - Logo','vpnMentor Logo', event);" href="https://www.vpn-mentors.com/" data-qa-id="footer_logo">
+    <div class="hpdlsfcgev">
+        <div class="fpxiuqckhvooh">
+            <div class="vfsdaiafjdyy">
+                <a class="xjwfvxqhjr" onmousedown="clickedLinkInternal('Footer - Logo','vpnMentor Logo', event);" href="https://www.vpn-mentors.com/" data-qa-id="xrdeqxigiuj">
                     <img src="wp-content/themes/assets/img/vm_new_logo.svg" width="156" height="42" alt="vpnmentor" loading="lazy">
                 </a>
-                <div class="footer__mission" data-qa-id="footer_text">
+                <div class="lwwqzgldko" data-qa-id="hahikswuhgocg">
                     <strong>Our mission:</strong>
                     "We started vpnMentor to offer users a really honest, committed and helpful tool when navigating VPNs and web privacy." Ariel Hochstadt                
                 </div>
             </div>
-            <div class="footer__menu">
-                <ul id="menu-footer" class="footer__menu-list">
-                    <li id="menu-item-356" data-qa-id="footer_menu_link">
-                        <a class="footer__menu-link" href="about-us/" data-qa-id="footer_about_us>" onmousedown="clickedLinkInternal('All Page - Footer Menu','About us', event);">About us                            </a>
+            <div class="dlzyzwhcqjpqq">
+                <ul id="htoepaxdyevj" class="zpxyegpcixvt">
+                    <li id="dqhwfhglpfsewpo" data-qa-id="zzedokpckquvdhy">
+                        <a class="voehxlofxvcp" href="about-us/" data-qa-id="gurxctarutdhsje" onmousedown="clickedLinkInternal('All Page - Footer Menu','About us', event);">About us                            </a>
                     </li>
-                    <li id="menu-item-303" data-qa-id="footer_menu_link">
-                        <a class="footer__menu-link" href="contact-us/" data-qa-id="footer_contact_us>" onmousedown="clickedLinkInternal('All Page - Footer Menu','Contact us', event);">Contact us                            </a>
+                    <li id="dexlhflvoridypj" data-qa-id="zzedokpckquvdhy">
+                        <a class="voehxlofxvcp" href="contact-us/" data-qa-id="wkyxhyreijyj" onmousedown="clickedLinkInternal('All Page - Footer Menu','Contact us', event);">Contact us                            </a>
                     </li>
-                    <li id="menu-item-19810" data-qa-id="footer_menu_link">
-                        <a class="footer__menu-link" href="privacy-policy/" data-qa-id="footer_privacy_policy>" onmousedown="clickedLinkInternal('All Page - Footer Menu','Privacy policy', event);">Privacy policy                            </a>
+                    <li id="fhvlxvsfko" data-qa-id="zzedokpckquvdhy">
+                        <a class="voehxlofxvcp" href="privacy-policy/" data-qa-id="eogukztpza" onmousedown="clickedLinkInternal('All Page - Footer Menu','Privacy policy', event);">Privacy policy                            </a>
                     </li>
-                    <li id="menu-item-19779" data-qa-id="footer_menu_link">
-                        <a class="footer__menu-link" href="terms-and-conditions-of-use/" data-qa-id="footer_terms_and_conditions_of_use>" onmousedown="clickedLinkInternal('All Page - Footer Menu','Terms and conditions of use', event);">Terms and conditions of use                            </a>
+                    <li id="ufjlyisoiiejhcd" data-qa-id="zzedokpckquvdhy">
+                        <a class="voehxlofxvcp" href="terms-and-conditions-of-use/" data-qa-id="eyigvqexjgoits" onmousedown="clickedLinkInternal('All Page - Footer Menu','Terms and conditions of use', event);">Terms and conditions of use                            </a>
                     </li>
                 </ul>
             </div>
-            <div class="footer__authors ">
-                <div class="footer__author" data-qa-id="footer_author">
-                    <div class="footer__author-logo">
+            <div class="jtytvsxjrulus ">
+                <div class="xfzodhaefaua" data-qa-id="kqwggxqrrcyiji">
+                    <div class="ctouephuxy">
                         <img class="" loading="lazy" src="wp-content/uploads/2020/09/Kate-Richards-43x44.jpg" alt="Author Image Kate Richards" width="43" height="44">
                         <noscript>
                             <img class="" src="wp-content/uploads/2020/09/Kate-Richards-43x44.jpg" alt="Author Image Kate Richards" width="43" height="44">
                         </noscript>
                     </div>
-                    <div class="footer__author-details">
-                        <p class="footer__author-name">Kate Richards                                    </p>
-                        <p class="footer__author-position">Cybersecurity Researcher                                </p>
+                    <div class="cpgqzetldtqyep">
+                        <p class="puqldkfgqi">Kate Richards                                    </p>
+                        <p class="vqaxslhsdgosj">Cybersecurity Researcher                                </p>
                     </div>
                 </div>
-                <div class="footer__author" data-qa-id="footer_author">
-                    <div class="footer__author-logo">
+                <div class="xfzodhaefaua" data-qa-id="kqwggxqrrcyiji">
+                    <div class="ctouephuxy">
                         <img class="" loading="lazy" src="wp-content/uploads/2021/01/Matthew-Amos-43x44.jpg" alt="Author Image Matthew Amos" width="43" height="44">
                         <noscript>
                             <img class="" src="wp-content/uploads/2021/01/Matthew-Amos-43x44.jpg" alt="Author Image Matthew Amos" width="43" height="44">
                         </noscript>
                     </div>
-                    <div class="footer__author-details">
-                        <p class="footer__author-name">Matthew Amos                                    </p>
-                        <p class="footer__author-position">Cybersecurity Researcher                                </p>
+                    <div class="cpgqzetldtqyep">
+                        <p class="puqldkfgqi">Matthew Amos                                    </p>
+                        <p class="vqaxslhsdgosj">Cybersecurity Researcher                                </p>
                     </div>
                 </div>
-                <div class="footer__author" data-qa-id="footer_author">
-                    <div class="footer__author-logo">
+                <div class="xfzodhaefaua" data-qa-id="kqwggxqrrcyiji">
+                    <div class="ctouephuxy">
                         <img class="" loading="lazy" src="wp-content/uploads/2020/08/VM-Profile-Pic-e1597259508789-43x44.png" alt="Author Image Ren Sayer" width="43" height="44">
                         <noscript>
                             <img class="" src="wp-content/uploads/2020/08/VM-Profile-Pic-e1597259508789-43x44.png" alt="Author Image Ren Sayer" width="43" height="44">
                         </noscript>
                     </div>
-                    <div class="footer__author-details">
-                        <p class="footer__author-name">Ren Sayer                                    </p>
-                        <p class="footer__author-position">Cybersecurity Researcher                                </p>
+                    <div class="cpgqzetldtqyep">
+                        <p class="puqldkfgqi">Ren Sayer                                    </p>
+                        <p class="vqaxslhsdgosj">Cybersecurity Researcher                                </p>
                     </div>
                 </div>
-                <div class="footer__author" data-qa-id="footer_author">
-                    <div class="footer__author-logo">
+                <div class="xfzodhaefaua" data-qa-id="kqwggxqrrcyiji">
+                    <div class="ctouephuxy">
                         <img class="" loading="lazy" src="wp-content/uploads/2020/08/Kristina-Perunicic-43x44.png" alt="Author Image Kristina Perunicic" width="43" height="44">
                         <noscript>
                             <img class="" src="wp-content/uploads/2020/08/Kristina-Perunicic-43x44.png" alt="Author Image Kristina Perunicic" width="43" height="44">
                         </noscript>
                     </div>
-                    <div class="footer__author-details">
-                        <p class="footer__author-name">Kristina Perunicic                                    </p>
-                        <p class="footer__author-position">Cybersecurity Researcher                                </p>
+                    <div class="cpgqzetldtqyep">
+                        <p class="puqldkfgqi">Kristina Perunicic                                    </p>
+                        <p class="vqaxslhsdgosj">Cybersecurity Researcher                                </p>
                     </div>
                 </div>
             </div>
-            <div class="footer__social-links">
-                <div class="footer__social-links-title" data-qa-id="footer_share_title">Follow vpnMentor                </div>
-                <ul class="footer__social-links-list">
+            <div class="zwdffqxgcp">
+                <div class="vqplqcotoh" data-qa-id="vdicovuthxyo">Follow vpnMentor                </div>
+                <ul class="trolujqijlcg">
                     <li>
-                        <a onmousedown="clickedLinkInternal('Footer (all pages) - social 7 Best VPNs for 2022','facebook', event);" target="_blank" data-qa-id="footer_facebook" rel="sponsored noopener noreferrer" class="footer__social-link social-btn__facebook" href="https://www.facebook.com/vpnmentor/">
-                            <i class="footer__social-icon fa fa-facebook-square-brands"></i>
+                        <a onmousedown="clickedLinkInternal('Footer (all pages) - fghekxwycko 7 Best VPNs for 2022','facebook', event);" target="_blank" data-qa-id="tkzjaqelad" rel="sponsored noopener noreferrer" class="hqxdzhpsoray ieepddloiwe" href="https://www.fagswpdrqrifrtvcebook.com/vpnmentor/">
+                            <i class="dtlodjjlwx fagswpdrqrifrtv hezclaaqgh"></i>
                         </a>
                     </li>
                     <li>
-                        <a onmousedown="clickedLinkInternal('Footer (all pages) - social 7 Best VPNs for 2022','twitter', event);" target="_blank" data-qa-id="footer_twitter" rel="sponsored noopener noreferrer" class="footer__social-link social-btn__twitter" href="https://twitter.com/vpnmentor">
-                            <i class="footer__social-icon fa fa-twitter-square-brands"></i>
+                        <a onmousedown="clickedLinkInternal('Footer (all pages) - fghekxwycko 7 Best VPNs for 2022','twitter', event);" target="_blank" data-qa-id="rvxtehkszzw" rel="sponsored noopener noreferrer" class="hqxdzhpsoray shfeeyjletsyxo" href="https://twitter.com/vpnmentor">
+                            <i class="dtlodjjlwx fagswpdrqrifrtv tyekpdlevh"></i>
                         </a>
                     </li>
                     <li>
-                        <a onmousedown="clickedLinkInternal('Footer (all pages) - social 7 Best VPNs for 2022','youtube', event);" target="_blank" data-qa-id="footer_youtube" rel="sponsored noopener noreferrer" class="footer__social-link social-btn__youtube" href="https://www.youtube.com/c/vpnMentor">
-                            <i class="footer__social-icon fa fa-youtube-square-brands"></i>
+                        <a onmousedown="clickedLinkInternal('Footer (all pages) - fghekxwycko 7 Best VPNs for 2022','youtube', event);" target="_blank" data-qa-id="kljkrielguaz" rel="sponsored noopener noreferrer" class="hqxdzhpsoray tihtjoerluw" href="https://www.youtube.com/c/vpnMentor">
+                            <i class="dtlodjjlwx fagswpdrqrifrtv kgipfivdily"></i>
                         </a>
                     </li>
                 </ul>
             </div>
-            <div class="footer__copyright">
-                <span data-qa-id="footer_copyright">© 2022 vpnMentor |
+            <div class="fvydrrwazkhdsev">
+                <span data-qa-id="dzgkckhfoukdhy">© 2022 vpnMentor |
                     All Rights Reserved                </span>
             </div>
         </div>
@@ -3464,7 +3463,7 @@
 
     function setTimeOnBanner(timeArr, timeDiv=null) {
         if (timeDiv == null) {
-            var timeDiv = document.querySelector(".exit-counter-mobile");
+            var timeDiv = document.querySelector(".efpfhixapwl-mobile");
         }
         var spans = timeDiv.querySelectorAll(".time");
         spans[0].innerText = ((timeArr[0]));
@@ -3475,7 +3474,7 @@
     }
 
     var closeAllModal = function() {
-        // Use this to close all modal that will overlap with Exit Intent.
+        // Use this to close all ljvadvufyghyx that will overlap with Exit Intent.
 
         if (typeof closeModal == "function") {
             closeModal();
@@ -3527,11 +3526,11 @@
 
         bioEp.init({
             // Options
-            css: '#bio_ep {width: 900px; height: auto; color: #333; background-color: #fafafa; text-align: center; transform: translateX(-50%) translateY(-50%);}',
+            css: '#pyjkejexoud {width: 900px; height: auto; color: #333; background-color: #fafafa; text-align: center; transform: translateX(-50%) translateY(-50%);}',
             cookieExp: 0.02083,
 
             onPopup: function() {
-                document.querySelectorAll("#bio_ep img[data-src]").forEach(function(img) {
+                document.querySelectorAll("#pyjkejexoud img[data-src]").forEach(function(img) {
                     img.setAttribute('src', img.getAttribute('data-src'));
                     img.onload = function() {
                         img.removeAttribute('data-src');
@@ -3571,15 +3570,15 @@
 
                     aloomaTrackPageview('Exit Intent Fired', aloomaIntentData);
 
-                    document.querySelectorAll('#bio_ep a[href*="Track_link"]').forEach(function(el) {
+                    document.querySelectorAll('#pyjkejexoud a[href*="Track_link"]').forEach(function(el) {
                         el.addEventListener('click', function() {
                             bioEp.hidePopup();
                         });
                     });
 
-                    document.querySelectorAll('#bio_ep_close, #bio_ep_close span').forEach(function(el) {
+                    document.querySelectorAll('#ddiksvehrwj, #ddiksvehrwj span').forEach(function(el) {
                         el.addEventListener('click', function(event) {
-                            var modal = event.currentTarget.parentNode
+                            var ljvadvufyghyx = event.currentTarget.parentNode
                             var bioClassName = modal.className;
                             var arrString = bioClassName.split(" ");
                             if (arrString[0] != 'main') {
@@ -3636,56 +3635,56 @@
 
     }
 </script>
-<div id="bio_ep" class="exit-express-ppc-kape v2" data-has-countdown="true">
-    <a class="bio_ep_whole_link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ExitIntentExpressVpnMainPopup_1460_best_vpns_overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1" onclick="clickedLinkExternal('Exit Intent - Main Popup','ExpressVPN');" rel="sponsored noopener noreferrer" target="_blank"></a>
-    <div class="bioep-ppc-kape__container">
-        <div class="bioep-ppc-kape__left bioep-ppc-kape__col" data-qa-id="exit_intent_express2020">
-            <div class="bioep-ppc-kape__exclusive-offer">EXCLUSIVE OFFER</div>
-            <div class="bioep-ppc-kape__heading">Get 3 months free</div>
-            <div class="bioep-ppc-kape__subheading">
+<div id="pyjkejexoud" class="kgzaruzjtxl evyzooiihisjhf" data-has-countdown="true">
+    <a class="lrfdgldudgyqkg" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ExitIntentExpressVpnMainPopup_1460_best_vpns_overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1" onclick="clickedLinkExternal('Exit Intent - Main Popup','ExpressVPN');" rel="sponsored noopener noreferrer" target="_blank"></a>
+    <div class="yrudslaaecfqt">
+        <div class="pgsauqyxgt qvzdeakoqcrr" data-qa-id="yqwslayjjlysxko">
+            <div class="xllwwhaegpe">EXCLUSIVE OFFER</div>
+            <div class="awcezyslljpypv">Get 3 months free</div>
+            <div class="xtyxajvojsjuklz">
                 of our <i>#1</i>
                 rated VPN
             </div>
-            <div class="bioep-ppc-kape__limited-offer">LIMITED-TIME OFFER:</div>
-            <div class="bioep-ppc-kape__countdown">
-                <div id="exit-counter" class="exit-counter">
-                    <div class="count-item">
+            <div class="vdsazzpfiyxrod">LIMITED-TIME OFFER:</div>
+            <div class="pyzzhohdkege">
+                <div id="rltlzzwswiqs" class="efpfhixapwl">
+                    <div class="clolxjfdzqweh">
                         <div class="time">00</div>
                         <span>Days</span>
                     </div>
-                    <div class="count-item">
+                    <div class="clolxjfdzqweh">
                         <div class="time">00</div>
                         <span>Hours</span>
                     </div>
-                    <div class="count-item">
+                    <div class="clolxjfdzqweh">
                         <div class="time">00</div>
                         <span>Minutes</span>
                     </div>
-                    <div class="count-item">
+                    <div class="clolxjfdzqweh">
                         <div class="time">00</div>
                         <span>Seconds</span>
                     </div>
                 </div>
             </div>
-            <div class="clear"></div>
-            <a class="bioep-ppc-kape__cta-link" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ExitIntentExpressVpnPopupCTAButton_1460_best_vpns_overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1" onclick="clickedLinkExternal('Exit Intent - CTA Button','ExpressVPN');" rel="sponsored noopener noreferrer" target="_blank">
-                Get ExpressVPN                <i class="fa fa-chevron-right bioep-ppc-kape__cta-link__arrow"></i>
+            <div class="kiqcfpodouf"></div>
+            <a class="ydajklveel" href="https://www.vpn-mentors.com/?Track_link=MTQ2MHw%3D&vid=1460&target=ExitIntentExpressVpnPopupCTAButton_1460_best_vpns_overall_0&pageid=74_en_ppc&type=ppc&org_referer=https%3A%2F%2Fwww.vpn-mentors.com%2Fbest-vpns-overall%2F&ve=1" onclick="clickedLinkExternal('Exit Intent - CTA Button','ExpressVPN');" rel="sponsored noopener noreferrer" target="_blank">
+                Get ExpressVPN                <i class="fagswpdrqrifrtv zyxesrydvqlka viotjthwcr"></i>
             </a>
-            <div class="bioep-ppc-kape__guarantee">30-Day Money-Back Guarantee            </div>
+            <div class="dqgrrkjddozoivs">30-Day Money-Back Guarantee            </div>
         </div>
-        <div class="bioep-ppc-kape__right bioep-ppc-kape__col">
-            <div class="bioep-ppc-kape__logo-wrapper">
-                <img loading="lazy" src="wp-content/themes/vpnmentor/images/bio_ab_test/expressvpn-logo-red.png" class="bioep-ppc-kape__vendor_logo" alt="">
+        <div class="aiysvccjjjcul qvzdeakoqcrr">
+            <div class="edhtfszravjvgpa">
+                <img loading="lazy" src="wp-content/themes/vpnmentor/images/bio_ab_test/expressvpn-logo-red.png" class="vgkoiiistjy" alt="">
             </div>
-            <div class="bioep-ppc-kape__devices-wrapper">
-                <img loading="lazy" src="wp-content/themes/vpnmentor/images/bio_ab_test/expressvpn-popup-devices-kape.png" class="bioep-ppc-kape__devices_img" alt="">
+            <div class="aeolhvqdrgvq">
+                <img loading="lazy" src="wp-content/themes/vpnmentor/images/bio_ab_test/expressvpn-popup-devices-kape.png" class="fpqgvjcdspyhg" alt="">
             </div>
-            <div class="bioep-ppc-kape__trustpilot-wrapper">
-                <img loading="lazy" src="wp-content/themes/vpnmentor/images/bio_ab_test/expressvpn-popup-trustpilot.png" class="bioep-ppc-kape__trustpilot_img" alt="Trustpilot">
+            <div class="zuxpscfkpssz">
+                <img loading="lazy" src="wp-content/themes/vpnmentor/images/bio_ab_test/expressvpn-popup-trustpilot.png" class="yfzgeuftpsafse" alt="Trustpilot">
             </div>
         </div>
     </div>
-    <!-- .bioep-ppc-kape__container -->
+    <!-- .yrudslaaecfqt -->
 </div>
 <script>
     var vm_popup_name = "exit-intent-express-kape-ppc";
@@ -3694,7 +3693,7 @@
     var vm_intent_vendor_name = "ExpressVPN";
 </script>
 <script>
-    var vm_intent_vendor_id = "1460";
+    var vm_intent_vendor_id = "sicliddozzj";
 </script>
 <script>
     console.log(vm_popup_name);
@@ -3708,14 +3707,14 @@
         var vars = query.split("&");
         for (var i = 0; i < vars.length; i++) {
             var pair = vars[i].split("=");
-            // If first entry with this name
+            // If hppworhdas entry with this name
             if (typeof query_string[pair[0]] === "undefined") {
                 query_string[pair[0]] = decodeURIComponent(pair[1]);
-                // If second entry with this name
+                // If riyfkrhjogavv entry with this name
             } else if (typeof query_string[pair[0]] === "string") {
                 var arr = [query_string[pair[0]], decodeURIComponent(pair[1])];
                 query_string[pair[0]] = arr;
-                // If third or later entry with this name
+                // If usgddltfdkf or later entry with this name
             } else {
                 query_string[pair[0]].push(decodeURIComponent(pair[1]));
             }
@@ -4068,15 +4067,15 @@
         for (var i = 0; i < vars.length; i++) {
             (Date.now().toString(36) + Math.random().toString(36).substr(2, 5)).toUpperCase()
             var pair = vars[i].split("=");
-            // If first entry with this name
+            // If hppworhdas entry with this name
             if (typeof query_string[pair[0]] === "undefined") {
                 query_string[pair[0]] = decodeURIComponent(encodeURIComponent(pair[1]));
                 //console.log(query_string[pair[0]]);
-                // If second entry with this name
+                // If riyfkrhjogavv entry with this name
             } else if (typeof query_string[pair[0]] === "string") {
                 var arr = [query_string[pair[0]], decodeURIComponent(pair[1])];
                 query_string[pair[0]] = arr;
-                // If third or later entry with this name
+                // If usgddltfdkf or later entry with this name
             } else {
                 query_string[pair[0]].push(decodeURIComponent(pair[1]));
             }
@@ -4108,7 +4107,7 @@
     //console.log(aloomaPageData);
 
     function b64EncodeUnicode(str) {
-        // first we use encodeURIComponent to get percent-encoded UTF-8,
+        // hppworhdas we use encodeURIComponent to get percent-encoded UTF-8,
         // then we convert the percent encodings into raw bytes which
         // can be fed into btoa.
         return btoa(encodeURIComponent(str).replace(/%([0-9A-F]{2})/g, function toSolidBytes(match, p1) {
